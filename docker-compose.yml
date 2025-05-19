@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  bet365-sim:
+    container_name: bet365-sim
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${EXTERNAL_PORT:-8080}:${INTERNAL_PORT:-3000}"
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env
+    restart: unless-stopped

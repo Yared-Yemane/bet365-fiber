@@ -1,0 +1,198 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "id": "9879535",
+      "sport_id": "91",
+      "time": "1746108000",
+      "time_status": "3",
+      "league": { "id": "2347", "name": "Portugal Nacional Women", "cc": "pt" },
+      "home": {
+        "id": "210549",
+        "name": "Sporting CP Women",
+        "image_id": "506482",
+        "cc": "pt"
+      },
+      "away": {
+        "id": "307260",
+        "name": "FC Porto Women",
+        "image_id": "634222",
+        "cc": "pt"
+      },
+      "ss": "2-3",
+      "scores": {
+        "1": { "home": "25", "away": "23" },
+        "2": { "home": "20", "away": "25" },
+        "3": { "home": "25", "away": "20" },
+        "4": { "home": "9", "away": "25" },
+        "5": { "home": "9", "away": "15" }
+      },
+      "stats": {
+        "points_won_on_serve": ["33", "53"],
+        "longest_streak": ["4", "7"]
+      },
+      "events": [
+        {
+          "id": "241490628",
+          "text": "Set 1 - Race to 5 points - Sporting CP Women"
+        },
+        { "id": "241490771", "text": "Time Out" },
+        {
+          "id": "241491107",
+          "text": "Set 1 Lead After 10 Points - Sporting CP Women"
+        },
+        {
+          "id": "241491649",
+          "text": "Set 1 - Race to 10 points - Sporting CP Women"
+        },
+        {
+          "id": "241491972",
+          "text": "Set 1 Lead After 20 Points - Sporting CP Women"
+        },
+        {
+          "id": "241492501",
+          "text": "Set 1 - Race to 15 points - Sporting CP Women"
+        },
+        { "id": "241492746", "text": "Time Out" },
+        {
+          "id": "241492996",
+          "text": "Set 1 Lead After 30 Points - Sporting CP Women"
+        },
+        { "id": "241493163", "text": "Time Out" },
+        {
+          "id": "241493353",
+          "text": "Set 1 - Race to 20 points - Sporting CP Women"
+        },
+        { "id": "241493819", "text": "Time Out" },
+        { "id": "241494445", "text": "Set 1 to Sporting CP Women - 25-23" },
+        {
+          "id": "241495562",
+          "text": "Set 2 - Race to 5 points - Sporting CP Women"
+        },
+        {
+          "id": "241495715",
+          "text": "Set 2 Lead After 10 Points - Sporting CP Women"
+        },
+        {
+          "id": "241496372",
+          "text": "Set 2 - Race to 10 points - Sporting CP Women"
+        },
+        {
+          "id": "241496425",
+          "text": "Set 2 Lead After 20 Points - Sporting CP Women"
+        },
+        { "id": "241496722", "text": "Time Out" },
+        {
+          "id": "241497154",
+          "text": "Set 2 - Race to 15 points - Sporting CP Women"
+        },
+        { "id": "241497412", "text": "Set 2 Tie After 30" },
+        { "id": "241497734", "text": "Time Out" },
+        {
+          "id": "241498081",
+          "text": "Set 2 - Race to 20 points - FC Porto Women"
+        },
+        { "id": "241498120", "text": "Time Out" },
+        { "id": "241498921", "text": "Time Out" },
+        { "id": "241499271", "text": "Set 2 to FC Porto Women - 20-25" },
+        {
+          "id": "241500627",
+          "text": "Set 3 - Race to 5 points - Sporting CP Women"
+        },
+        {
+          "id": "241500696",
+          "text": "Set 3 Lead After 10 Points - Sporting CP Women"
+        },
+        {
+          "id": "241501160",
+          "text": "Set 3 - Race to 10 points - Sporting CP Women"
+        },
+        {
+          "id": "241501353",
+          "text": "Set 3 Lead After 20 Points - Sporting CP Women"
+        },
+        { "id": "241501380", "text": "Time Out" },
+        {
+          "id": "241501709",
+          "text": "Set 3 - Race to 15 points - Sporting CP Women"
+        },
+        {
+          "id": "241502120",
+          "text": "Set 3 Lead After 30 Points - Sporting CP Women"
+        },
+        { "id": "241502277", "text": "Time Out" },
+        {
+          "id": "241502578",
+          "text": "Set 3 - Race to 20 points - Sporting CP Women"
+        },
+        { "id": "241502641", "text": "Time Out" },
+        { "id": "241503891", "text": "Set 3 to Sporting CP Women - 25-20" },
+        {
+          "id": "241504961",
+          "text": "Set 4 - Race to 5 points - FC Porto Women"
+        },
+        { "id": "241505052", "text": "Time Out" },
+        {
+          "id": "241505272",
+          "text": "Set 4 Lead After 10 Points - FC Porto Women"
+        },
+        { "id": "241505377", "text": "Time Out" },
+        {
+          "id": "241505504",
+          "text": "Set 4 - Race to 10 points - FC Porto Women"
+        },
+        {
+          "id": "241506020",
+          "text": "Set 4 Lead After 20 Points - FC Porto Women"
+        },
+        {
+          "id": "241506021",
+          "text": "Set 4 - Race to 15 points - FC Porto Women"
+        },
+        {
+          "id": "241506402",
+          "text": "Set 4 - Race to 20 points - FC Porto Women"
+        },
+        {
+          "id": "241506602",
+          "text": "Set 4 Lead After 30 Points - FC Porto Women"
+        },
+        { "id": "241506838", "text": "Set 4 to FC Porto Women - 9-25" },
+        { "id": "241507713", "text": "Time Out" },
+        { "id": "241508161", "text": "Time Out" },
+        {
+          "id": "241508354",
+          "text": "Set 5 - Race to 5 points - FC Porto Women"
+        },
+        {
+          "id": "241508574",
+          "text": "Set 5 Lead After 10 Points - FC Porto Women"
+        },
+        { "id": "241508621", "text": "Time Out" },
+        {
+          "id": "241509101",
+          "text": "Set 5 - Race to 10 points - FC Porto Women"
+        },
+        {
+          "id": "241509618",
+          "text": "Set 5 Lead After 20 Points - FC Porto Women"
+        },
+        { "id": "241509834", "text": "Time Out" },
+        {
+          "id": "241510008",
+          "text": "Set 5 - Race to 15 points - FC Porto Women"
+        }
+      ],
+      "extra": {
+        "home_pos": "1",
+        "away_pos": "3",
+        "bestofsets": "5",
+        "round": "50"
+      },
+      "inplay_created_at": "1746107572",
+      "inplay_updated_at": "1746116502",
+      "confirmed_at": "1746123024",
+      "bet365_id": "173863967"
+    }
+  ]
+}

@@ -1,0 +1,6040 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "FI": "173802112",
+      "event_id": "9703206",
+      "1st_over": {
+        "updated_at": "1746105429",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#I6#",
+        "sp": {
+          "1st_over_total_runs": {
+            "id": "300336",
+            "name": "1st Over Total Runs",
+            "odds": [
+              {
+                "id": "658772252",
+                "odds": "1.66",
+                "name": "6.5",
+                "header": "Over"
+              },
+              {
+                "id": "658772262",
+                "odds": "2.20",
+                "name": "6.5",
+                "header": "Under"
+              }
+            ]
+          },
+          "1st_over_total_runs_odd_even": {
+            "id": "300118",
+            "name": "1st Over - Total Runs Odd/Even",
+            "odds": [
+              { "id": "658770900", "odds": "1.83", "name": "Odd" },
+              { "id": "658770905", "odds": "1.83", "name": "Even" }
+            ]
+          }
+        }
+      },
+      "innings_1": {
+        "updated_at": "1746103304",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#I3#",
+        "sp": {
+          "1st_innings_score": {
+            "id": "300338",
+            "name": "1st Innings Score",
+            "odds": [
+              {
+                "id": "658772390",
+                "odds": "1.83",
+                "name": "186.5",
+                "header": "Over"
+              },
+              {
+                "id": "658772394",
+                "odds": "1.83",
+                "name": "186.5",
+                "header": "Under"
+              }
+            ]
+          },
+          "1st_innings_of_match_bowled_out?": {
+            "id": "300108",
+            "name": "1st Innings of Match - Bowled Out?",
+            "odds": [],
+            "open": 0
+          }
+        }
+      },
+      "main": {
+        "updated_at": "1746105379",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#",
+        "sp": {
+          "to_win_the_match": {
+            "id": "1246",
+            "name": "To Win the Match",
+            "odds": [
+              {
+                "id": "658666625",
+                "odds": "2.50",
+                "name": "1",
+                "handicap": ""
+              },
+              { "id": "658666628", "odds": "1.53", "name": "2", "handicap": "" }
+            ]
+          },
+          "team_top_batter": {
+            "id": "1241",
+            "name": "Team - Top Batter",
+            "odds": [
+              {
+                "id": "PC658920934",
+                "odds": "",
+                "name": "Y Jaiswal",
+                "header": "1"
+              },
+              {
+                "id": "PC658920948",
+                "odds": "",
+                "name": "SV Samson",
+                "header": "1"
+              },
+              {
+                "id": "PC658920943",
+                "odds": "",
+                "name": "R Parag",
+                "header": "1"
+              },
+              {
+                "id": "PC658920945",
+                "odds": "",
+                "name": "N Rana",
+                "header": "1"
+              },
+              {
+                "id": "PC658920955",
+                "odds": "",
+                "name": "V Suryavanshi",
+                "header": "1"
+              },
+              {
+                "id": "PC658920931",
+                "odds": "",
+                "name": "SO Hetmyer",
+                "header": "1"
+              },
+              {
+                "id": "PC658920937",
+                "odds": "",
+                "name": "D Jurel",
+                "header": "1"
+              },
+              {
+                "id": "PC658920946",
+                "odds": "",
+                "name": "KS Rathore",
+                "header": "1"
+              },
+              {
+                "id": "PC658920926",
+                "odds": "",
+                "name": "S Dubey",
+                "header": "1"
+              },
+              {
+                "id": "PC658920930",
+                "odds": "",
+                "name": "Wanindu Hasaranga",
+                "header": "1"
+              },
+              {
+                "id": "PC658920917",
+                "odds": "",
+                "name": "JC Archer",
+                "header": "1"
+              },
+              {
+                "id": "PC658920953",
+                "odds": "",
+                "name": "Yudhvir Singh",
+                "header": "1"
+              },
+              {
+                "id": "PC658920949",
+                "odds": "",
+                "name": "Ashok Sharma",
+                "header": "1"
+              },
+              {
+                "id": "PC658920942",
+                "odds": "",
+                "name": "K Maphaka",
+                "header": "1"
+              },
+              {
+                "id": "PC658920925",
+                "odds": "",
+                "name": "TU Deshpande",
+                "header": "1"
+              },
+              {
+                "id": "PC658920928",
+                "odds": "",
+                "name": "F Farooqi",
+                "header": "1"
+              },
+              {
+                "id": "PC658920938",
+                "odds": "",
+                "name": "K Kartikeya",
+                "header": "1"
+              },
+              {
+                "id": "PC658920940",
+                "odds": "",
+                "name": "A Madhwal",
+                "header": "1"
+              },
+              {
+                "id": "PC658920951",
+                "odds": "",
+                "name": "Sandeep Sharma",
+                "header": "1"
+              },
+              {
+                "id": "PC658920957",
+                "odds": "",
+                "name": "MM Theekshana",
+                "header": "1"
+              },
+              {
+                "id": "PC658923108",
+                "odds": "",
+                "name": "Suryakumar Yadav",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923097",
+                "odds": "",
+                "name": "RG Sharma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923089",
+                "odds": "",
+                "name": "R Rickelton",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923104",
+                "odds": "",
+                "name": "T Varma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923070",
+                "odds": "",
+                "name": "WG Jacks",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923074",
+                "odds": "",
+                "name": "B Jacobs",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923099",
+                "odds": "",
+                "name": "KL Shrijith",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923083",
+                "odds": "",
+                "name": "HH Pandya",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923080",
+                "odds": "",
+                "name": "R Minz",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658922998",
+                "odds": "",
+                "name": "R Bawa",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923066",
+                "odds": "",
+                "name": "N Dhir",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923093",
+                "odds": "",
+                "name": "MJ Santner",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923100",
+                "odds": "",
+                "name": "A Tendulkar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658922999",
+                "odds": "",
+                "name": "Corbin Bosch",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923095",
+                "odds": "",
+                "name": "Karn Sharma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923050",
+                "odds": "",
+                "name": "Deepak Chahar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923006",
+                "odds": "",
+                "name": "TA Boult",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923033",
+                "odds": "",
+                "name": "JJ Bumrah",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923078",
+                "odds": "",
+                "name": "A Kumar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923086",
+                "odds": "",
+                "name": "V Puthur",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923087",
+                "odds": "",
+                "name": "PVS Raju",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923102",
+                "odds": "",
+                "name": "RJW Topley",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923103",
+                "odds": "",
+                "name": "M ur Rahman",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "658923108",
+                "odds": "3.50",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923097",
+                "odds": "4.75",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923089",
+                "odds": "5.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923104",
+                "odds": "5.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923070",
+                "odds": "6.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923074",
+                "odds": "7.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923099",
+                "odds": "7.50",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923083",
+                "odds": "11.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923080",
+                "odds": "12.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658922998",
+                "odds": "19.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923066",
+                "odds": "19.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923093",
+                "odds": "34.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923100",
+                "odds": "34.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658922999",
+                "odds": "41.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923095",
+                "odds": "41.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923050",
+                "odds": "81.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923006",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923033",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923078",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923086",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923087",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923102",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923103",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              }
+            ]
+          },
+          "team_top_bowler": {
+            "id": "1242",
+            "name": "Team - Top Bowler",
+            "odds": [],
+            "open": 0
+          },
+          "player_of_the_match": {
+            "id": "346",
+            "name": "Player of the Match",
+            "odds": [],
+            "open": 0
+          },
+          "1st_wicket_method": {
+            "id": "30205",
+            "name": "1st Wicket Method",
+            "odds": [],
+            "open": 0
+          },
+          "player_performance": {
+            "id": "300332",
+            "name": "Player Performance",
+            "odds": [
+              {
+                "id": "658921690",
+                "odds": "2.00",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921806",
+                "odds": "2.62",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921775",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "24.5"
+              },
+              {
+                "id": "658921751",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "26.5"
+              },
+              {
+                "id": "658921734",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "28.5"
+              },
+              {
+                "id": "658921903",
+                "odds": "2.50",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921871",
+                "odds": "1.90",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921934",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658921966",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "34.5"
+              },
+              {
+                "id": "658921838",
+                "odds": "1.90",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921695",
+                "odds": "1.72",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921810",
+                "odds": "1.44",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921777",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "24.5"
+              },
+              {
+                "id": "658921753",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "26.5"
+              },
+              {
+                "id": "658921736",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "28.5"
+              },
+              {
+                "id": "658921907",
+                "odds": "1.50",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921875",
+                "odds": "1.80",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921936",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658921968",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "34.5"
+              },
+              {
+                "id": "658921842",
+                "odds": "1.80",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              }
+            ]
+          },
+          "rajasthan_royals_vs_mumbai_indians": {
+            "id": "",
+            "name": "Rajasthan Royals vs Mumbai Indians",
+            "odds": []
+          },
+          "rajasthan_royals_vs_mumbai_indians-": {
+            "id": "",
+            "name": "Rajasthan Royals vs Mumbai Indians",
+            "odds": []
+          }
+        }
+      },
+      "match": {
+        "updated_at": "1746105415",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#I1#",
+        "sp": {
+          "top_match_batter": {
+            "id": "30245",
+            "name": "Top Match Batter",
+            "odds": [],
+            "open": 0
+          },
+          "top_match_bowler": {
+            "id": "30246",
+            "name": "Top Match Bowler",
+            "odds": [],
+            "open": 0
+          },
+          "highest_opening_partnership": {
+            "id": "30021",
+            "name": "Highest Opening Partnership",
+            "odds": [],
+            "open": 0
+          },
+          "team_to_make_highest_1st_6_overs_score": {
+            "id": "30112",
+            "name": "Team to Make Highest 1st 6 Overs Score",
+            "odds": [
+              {
+                "id": "658770613",
+                "odds": "2.20",
+                "name": "1",
+                "handicap": ""
+              },
+              { "id": "658770615", "odds": "1.66", "name": "2", "handicap": "" }
+            ]
+          },
+          "to_go_to_super_over?": {
+            "id": "300012",
+            "name": "To go to Super Over?",
+            "odds": [
+              {
+                "id": "658770673",
+                "odds": "29.00",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "658770674",
+                "odds": "1.00",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "runs_at_fall_of_1st_wicket": {
+            "id": "300337",
+            "name": "Runs at Fall of 1st Wicket",
+            "odds": [
+              {
+                "id": "658772311",
+                "odds": "1.90",
+                "name": "23.5",
+                "header": "Over"
+              },
+              {
+                "id": "658772338",
+                "odds": "1.90",
+                "name": "23.5",
+                "header": "Under"
+              }
+            ]
+          },
+          "match_runs_at_fall_of_first_wicket_(3_way)": {
+            "id": "300189",
+            "name": "Match - Runs at Fall of First Wicket - (3 Way)",
+            "odds": [],
+            "open": 0
+          },
+          "match_runs_at_fall_of_first_wicket_team_(3_way)": {
+            "id": "300191",
+            "name": "Match - Runs at Fall of First Wicket - Team (3 Way)",
+            "odds": [],
+            "open": 0
+          },
+          "1st_wicket_method": {
+            "id": "30205",
+            "name": "1st Wicket Method",
+            "odds": [],
+            "open": 0
+          },
+          "match_1st_wicket_method_(2_way)": {
+            "id": "300121",
+            "name": "Match - 1st Wicket Method (2 Way)",
+            "odds": [],
+            "open": 0
+          },
+          "match_1st_wicket_method_team_(2_way)": {
+            "id": "300123",
+            "name": "Match - 1st Wicket Method - Team (2 Way)",
+            "odds": [],
+            "open": 0
+          },
+          "a_fifty_to_be_scored": {
+            "id": "30201",
+            "name": "A Fifty to be scored",
+            "odds": [
+              {
+                "id": "658770625",
+                "odds": "1.07",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "658770627",
+                "odds": "9.00",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "a_hundred_to_be_scored_in_the_match": {
+            "id": "30202",
+            "name": "A Hundred to be Scored in the Match",
+            "odds": [
+              {
+                "id": "658770634",
+                "odds": "10.00",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "658770636",
+                "odds": "1.06",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "most_match_sixes": {
+            "id": "1006",
+            "name": "Most Match Sixes",
+            "odds": [
+              { "id": "658770560", "odds": "2.30", "name": "1" },
+              { "id": "658770562", "odds": "9.00", "name": "Tie" },
+              { "id": "658770564", "odds": "1.72", "name": "2" }
+            ]
+          },
+          "most_match_fours": {
+            "id": "300029",
+            "name": "Most Match Fours",
+            "odds": [
+              { "id": "658770684", "odds": "2.25", "name": "1" },
+              { "id": "658770687", "odds": "12.00", "name": "Tie" },
+              { "id": "658770689", "odds": "1.72", "name": "2" }
+            ]
+          },
+          "most_run_outs_(fielding)": {
+            "id": "30207",
+            "name": "Most Run Outs (Fielding)",
+            "odds": [],
+            "open": 0
+          },
+          "1st_scoring_shot_of_the_match": {
+            "id": "300126",
+            "name": "1st Scoring Shot of the Match",
+            "odds": [],
+            "open": 0
+          },
+          "highest_individual_score": {
+            "id": "300341",
+            "name": "Highest Individual Score",
+            "odds": [
+              { "id": "658772548", "odds": "1.83", "name": "Over 73.5" },
+              { "id": "658772554", "odds": "1.83", "name": "Under 73.5" }
+            ]
+          },
+          "highest_match_individual_score_team": {
+            "id": "300162",
+            "name": "Highest Match Individual Score - Team",
+            "odds": [],
+            "open": 0
+          },
+          "six_boundaries_in_an_over_match": {
+            "id": "300200",
+            "name": "Six Boundaries in an Over - Match",
+            "odds": [],
+            "open": 0
+          },
+          "rajasthan_royals_vs_mumbai_indians": {
+            "id": "",
+            "name": "Rajasthan Royals vs Mumbai Indians",
+            "odds": []
+          },
+          "rajasthan_royals_vs_mumbai_indians-": {
+            "id": "",
+            "name": "Rajasthan Royals vs Mumbai Indians",
+            "odds": []
+          }
+        }
+      },
+      "others": [
+        {
+          "updated_at": "1746105270",
+          "sp": {
+            "team_top_bowler": {
+              "id": "1242",
+              "name": "Team - Top Bowler",
+              "odds": [
+                {
+                  "id": "PC658920979",
+                  "odds": "",
+                  "name": "JC Archer",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658920981",
+                  "odds": "",
+                  "name": "TU Deshpande",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658920992",
+                  "odds": "",
+                  "name": "Wanindu Hasaranga",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658920988",
+                  "odds": "",
+                  "name": "F Farooqi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921029",
+                  "odds": "",
+                  "name": "Sandeep Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921003",
+                  "odds": "",
+                  "name": "A Madhwal",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921039",
+                  "odds": "",
+                  "name": "MM Theekshana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921008",
+                  "odds": "",
+                  "name": "K Maphaka",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921024",
+                  "odds": "",
+                  "name": "Ashok Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658920995",
+                  "odds": "",
+                  "name": "K Kartikeya",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921034",
+                  "odds": "",
+                  "name": "Yudhvir Singh",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921014",
+                  "odds": "",
+                  "name": "R Parag",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921019",
+                  "odds": "",
+                  "name": "N Rana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921038",
+                  "odds": "",
+                  "name": "V Suryavanshi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658923131",
+                  "odds": "",
+                  "name": "JJ Bumrah",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923128",
+                  "odds": "",
+                  "name": "TA Boult",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923140",
+                  "odds": "",
+                  "name": "HH Pandya",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923135",
+                  "odds": "",
+                  "name": "Deepak Chahar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923139",
+                  "odds": "",
+                  "name": "A Kumar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923141",
+                  "odds": "",
+                  "name": "V Puthur",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923151",
+                  "odds": "",
+                  "name": "RJW Topley",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923152",
+                  "odds": "",
+                  "name": "M ur Rahman",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923144",
+                  "odds": "",
+                  "name": "MJ Santner",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923127",
+                  "odds": "",
+                  "name": "Corbin Bosch",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923146",
+                  "odds": "",
+                  "name": "Karn Sharma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923122",
+                  "odds": "",
+                  "name": "R Bawa",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923137",
+                  "odds": "",
+                  "name": "WG Jacks",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923148",
+                  "odds": "",
+                  "name": "A Tendulkar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923142",
+                  "odds": "",
+                  "name": "PVS Raju",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923131",
+                  "odds": "3.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923128",
+                  "odds": "4.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923140",
+                  "odds": "4.75",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923135",
+                  "odds": "5.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923139",
+                  "odds": "5.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923141",
+                  "odds": "5.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923151",
+                  "odds": "5.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923152",
+                  "odds": "5.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923144",
+                  "odds": "6.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923127",
+                  "odds": "7.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923146",
+                  "odds": "7.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923122",
+                  "odds": "9.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923137",
+                  "odds": "9.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923148",
+                  "odds": "9.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923142",
+                  "odds": "10.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103041",
+          "sp": {
+            "match_handicap": {
+              "id": "149",
+              "name": "Match Handicap",
+              "odds": [
+                {
+                  "id": "672871169",
+                  "odds": "1.90",
+                  "name": "+4.5 wkts/+12.5 runs",
+                  "header": "1"
+                },
+                {
+                  "id": "672871171",
+                  "odds": "1.90",
+                  "name": "-4.5 wkts/-12.5 runs",
+                  "header": "2"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104597",
+          "sp": {
+            "player_to_score_most_match_6s": {
+              "id": "300014",
+              "name": "Player to Score Most Match 6s",
+              "odds": [
+                {
+                  "id": "658923643",
+                  "odds": "4.50",
+                  "name": "Suryakumar Yadav"
+                },
+                { "id": "658923608", "odds": "4.75", "name": "R Parag" },
+                { "id": "658923642", "odds": "8.50", "name": "T Varma" },
+                { "id": "658923616", "odds": "9.00", "name": "V Suryavanshi" },
+                { "id": "658923602", "odds": "9.50", "name": "Y Jaiswal" },
+                { "id": "658923600", "odds": "10.00", "name": "SO Hetmyer" },
+                { "id": "658923609", "odds": "10.00", "name": "N Rana" },
+                { "id": "658923611", "odds": "10.00", "name": "SV Samson" },
+                { "id": "658923626", "odds": "10.00", "name": "B Jacobs" },
+                { "id": "658923597", "odds": "11.00", "name": "S Dubey" },
+                { "id": "658923629", "odds": "11.00", "name": "HH Pandya" },
+                { "id": "658923632", "odds": "11.00", "name": "R Rickelton" },
+                { "id": "658923637", "odds": "11.00", "name": "RG Sharma" },
+                { "id": "658923618", "odds": "13.00", "name": "R Bawa" },
+                { "id": "658923638", "odds": "13.00", "name": "KL Shrijith" },
+                { "id": "658923603", "odds": "15.00", "name": "D Jurel" },
+                { "id": "658923624", "odds": "15.00", "name": "N Dhir" },
+                { "id": "658923625", "odds": "15.00", "name": "WG Jacks" },
+                { "id": "658923610", "odds": "26.00", "name": "KS Rathore" },
+                { "id": "658923628", "odds": "26.00", "name": "R Minz" },
+                { "id": "658923633", "odds": "34.00", "name": "MJ Santner" },
+                { "id": "658923639", "odds": "34.00", "name": "A Tendulkar" },
+                {
+                  "id": "658923599",
+                  "odds": "41.00",
+                  "name": "Wanindu Hasaranga"
+                },
+                { "id": "658923623", "odds": "41.00", "name": "Deepak Chahar" },
+                { "id": "658923634", "odds": "41.00", "name": "Karn Sharma" },
+                { "id": "658923595", "odds": "51.00", "name": "JC Archer" },
+                { "id": "658923614", "odds": "51.00", "name": "Yudhvir Singh" },
+                { "id": "658923619", "odds": "81.00", "name": "Corbin Bosch" },
+                { "id": "658923596", "odds": "101.00", "name": "TU Deshpande" },
+                { "id": "658923598", "odds": "101.00", "name": "F Farooqi" },
+                { "id": "658923604", "odds": "101.00", "name": "K Kartikeya" },
+                { "id": "658923605", "odds": "101.00", "name": "A Madhwal" },
+                { "id": "658923606", "odds": "101.00", "name": "K Maphaka" },
+                { "id": "658923612", "odds": "101.00", "name": "Ashok Sharma" },
+                {
+                  "id": "658923613",
+                  "odds": "101.00",
+                  "name": "Sandeep Sharma"
+                },
+                {
+                  "id": "658923617",
+                  "odds": "101.00",
+                  "name": "MM Theekshana"
+                },
+                { "id": "658923621", "odds": "101.00", "name": "TA Boult" },
+                { "id": "658923622", "odds": "101.00", "name": "JJ Bumrah" },
+                { "id": "658923627", "odds": "101.00", "name": "A Kumar" },
+                { "id": "658923630", "odds": "101.00", "name": "V Puthur" },
+                { "id": "658923631", "odds": "101.00", "name": "PVS Raju" },
+                { "id": "658923640", "odds": "101.00", "name": "RJW Topley" },
+                { "id": "658923641", "odds": "101.00", "name": "M ur Rahman" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103662",
+          "sp": {
+            "1st_innings_of_match_bowled_out?": {
+              "id": "300108",
+              "name": "1st Innings of Match - Bowled Out?",
+              "odds": [
+                { "id": "658770702", "odds": "7.50", "name": "Yes" },
+                { "id": "658770705", "odds": "1.07", "name": "No" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103578",
+          "sp": {
+            "1st_over_of_match_6_scored_team": {
+              "id": "300113",
+              "name": "1st Over of Match - 6 Scored - Team",
+              "odds": [
+                {
+                  "id": "658770799",
+                  "odds": "4.33",
+                  "name": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658770811",
+                  "odds": "4.33",
+                  "name": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658770800",
+                  "odds": "1.20",
+                  "name": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658770813",
+                  "odds": "1.20",
+                  "name": "2",
+                  "header": "No"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103751",
+          "sp": {
+            "1st_over_of_match_boundary_scored_team": {
+              "id": "300116",
+              "name": "1st Over of Match - Boundary Scored - Team",
+              "odds": [
+                {
+                  "id": "658770853",
+                  "odds": "1.30",
+                  "name": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658770873",
+                  "odds": "1.30",
+                  "name": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658770855",
+                  "odds": "3.40",
+                  "name": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658770876",
+                  "odds": "3.40",
+                  "name": "2",
+                  "header": "No"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104580",
+          "sp": {
+            "match_1st_wicket_method_(2_way)": {
+              "id": "300121",
+              "name": "Match - 1st Wicket Method (2 Way)",
+              "odds": [
+                {
+                  "id": "658771000",
+                  "odds": "1.36",
+                  "name": "Caught",
+                  "handicap": ""
+                },
+                {
+                  "id": "658771006",
+                  "odds": "3.00",
+                  "name": "Any Other",
+                  "handicap": ""
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746101200",
+          "sp": {
+            "match_1st_wicket_method_team": {
+              "id": "300122",
+              "name": "Match - 1st Wicket Method - Team",
+              "odds": [
+                {
+                  "id": "PC658771034",
+                  "odds": "",
+                  "name": "Caught",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771042",
+                  "odds": "",
+                  "name": "Bowled",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771047",
+                  "odds": "",
+                  "name": "LBW",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771049",
+                  "odds": "",
+                  "name": "Run Out",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771051",
+                  "odds": "",
+                  "name": "Stumped",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771058",
+                  "odds": "",
+                  "name": "Others",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658771114",
+                  "odds": "",
+                  "name": "Caught",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658771117",
+                  "odds": "",
+                  "name": "Bowled",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658771118",
+                  "odds": "",
+                  "name": "LBW",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658771121",
+                  "odds": "",
+                  "name": "Run Out",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658771123",
+                  "odds": "",
+                  "name": "Stumped",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658771125",
+                  "odds": "",
+                  "name": "Others",
+                  "header": "2"
+                },
+                { "id": "658771114", "odds": "1.36", "header": "" },
+                { "id": "658771117", "odds": "4.50", "header": "" },
+                { "id": "658771118", "odds": "9.50", "header": "" },
+                { "id": "658771121", "odds": "21.00", "header": "" },
+                { "id": "658771123", "odds": "23.00", "header": "" },
+                { "id": "658771125", "odds": "201.00", "header": "" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104793",
+          "sp": {
+            "match_1st_wicket_method_team_(2_way)": {
+              "id": "300123",
+              "name": "Match - 1st Wicket Method - Team (2 Way)",
+              "odds": [
+                {
+                  "id": "658771084",
+                  "odds": "1.36",
+                  "name": "1",
+                  "header": "Caught"
+                },
+                {
+                  "id": "658771140",
+                  "odds": "1.36",
+                  "name": "2",
+                  "header": "Caught"
+                },
+                {
+                  "id": "658771088",
+                  "odds": "3.00",
+                  "name": "1",
+                  "header": "Any Other"
+                },
+                {
+                  "id": "658771143",
+                  "odds": "3.00",
+                  "name": "2",
+                  "header": "Any Other"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104505",
+          "sp": {
+            "1st_scoring_shot_of_the_match": {
+              "id": "300126",
+              "name": "1st Scoring Shot of the Match",
+              "odds": [
+                { "id": "658771163", "odds": "1.66", "name": "Single" },
+                { "id": "658771166", "odds": "11.00", "name": "Two" },
+                { "id": "658771168", "odds": "29.00", "name": "Three" },
+                { "id": "658771171", "odds": "2.60", "name": "Four" },
+                { "id": "658771173", "odds": "17.00", "name": "Six" },
+                { "id": "658771175", "odds": "101.00", "name": "Other" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746100920",
+          "sp": {
+            "first_match_ball_to_be_a_dot": {
+              "id": "300156",
+              "name": "First Match Ball to be A Dot",
+              "odds": [
+                { "id": "658771249", "odds": "1.83", "name": "Yes" },
+                { "id": "658771251", "odds": "1.83", "name": "No" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104211",
+          "sp": {
+            "first_match_ball_to_be_a_dot_team": {
+              "id": "300157",
+              "name": "First Match Ball to be A Dot - Team",
+              "odds": [
+                {
+                  "id": "658771265",
+                  "odds": "1.83",
+                  "name": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658771283",
+                  "odds": "1.83",
+                  "name": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658771267",
+                  "odds": "1.83",
+                  "name": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658771286",
+                  "odds": "1.83",
+                  "name": "2",
+                  "header": "No"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746105381",
+          "sp": {
+            "highest_match_individual_score_team": {
+              "id": "300162",
+              "name": "Highest Match Individual Score - Team",
+              "odds": [
+                { "id": "PC658771299", "odds": "", "name": "1", "header": "" },
+                { "id": "PC658771317", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "658771299",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "60.5"
+                },
+                {
+                  "id": "658771317",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "61.5"
+                },
+                {
+                  "id": "658771302",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "60.5"
+                },
+                {
+                  "id": "658771319",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "61.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746099697",
+          "sp": {
+            "most_runs_in_a_single_over": {
+              "id": "300171",
+              "name": "Most Runs in a Single Over",
+              "odds": [
+                {
+                  "id": "658771327",
+                  "odds": "2.10",
+                  "name": "Over",
+                  "handicap": "20.5"
+                },
+                {
+                  "id": "658771329",
+                  "odds": "1.66",
+                  "name": "Under",
+                  "handicap": "20.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104223",
+          "sp": {
+            "most_runs_in_a_single_over_team": {
+              "id": "300172",
+              "name": "Most Runs in a Single Over - Team",
+              "odds": [
+                { "id": "PC658771344", "odds": "", "name": "1", "header": "" },
+                { "id": "PC658771364", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "658771344",
+                  "odds": "1.90",
+                  "header": "Over",
+                  "handicap": "18.5"
+                },
+                {
+                  "id": "658771364",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "19.5"
+                },
+                {
+                  "id": "658771347",
+                  "odds": "1.80",
+                  "header": "Under",
+                  "handicap": "18.5"
+                },
+                {
+                  "id": "658771367",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "19.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104188",
+          "sp": {
+            "number_of_wickets_caught_in_match": {
+              "id": "300174",
+              "name": "Number of Wickets Caught in Match",
+              "odds": [
+                { "id": "658771380", "odds": "1.72", "name": "Over" },
+                { "id": "658771382", "odds": "2.00", "name": "Under" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103122",
+          "sp": {
+            "number_of_wickets_caught_in_match_team": {
+              "id": "300175",
+              "name": "Number of Wickets Caught in Match - Team",
+              "odds": [
+                { "id": "PC658771395", "odds": "", "name": "1", "header": "" },
+                { "id": "PC658771417", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "658771395",
+                  "odds": "2.10",
+                  "header": "Over",
+                  "handicap": "4.5"
+                },
+                {
+                  "id": "658771417",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "4.5"
+                },
+                {
+                  "id": "658771397",
+                  "odds": "1.66",
+                  "header": "Under",
+                  "handicap": "4.5"
+                },
+                {
+                  "id": "658771418",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "4.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103454",
+          "sp": {
+            "player_to_score_most_6s_team": {
+              "id": "300184",
+              "name": "Player to Score Most 6s - Team",
+              "odds": [
+                {
+                  "id": "PC658921072",
+                  "odds": "",
+                  "name": "R Parag",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921062",
+                  "odds": "",
+                  "name": "SO Hetmyer",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921064",
+                  "odds": "",
+                  "name": "Y Jaiswal",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921085",
+                  "odds": "",
+                  "name": "V Suryavanshi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921074",
+                  "odds": "",
+                  "name": "N Rana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921078",
+                  "odds": "",
+                  "name": "SV Samson",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921057",
+                  "odds": "",
+                  "name": "S Dubey",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921066",
+                  "odds": "",
+                  "name": "D Jurel",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921076",
+                  "odds": "",
+                  "name": "KS Rathore",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921060",
+                  "odds": "",
+                  "name": "Wanindu Hasaranga",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921054",
+                  "odds": "",
+                  "name": "JC Archer",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921083",
+                  "odds": "",
+                  "name": "Yudhvir Singh",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921071",
+                  "odds": "",
+                  "name": "K Maphaka",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921079",
+                  "odds": "",
+                  "name": "Ashok Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921056",
+                  "odds": "",
+                  "name": "TU Deshpande",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921059",
+                  "odds": "",
+                  "name": "F Farooqi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921086",
+                  "odds": "",
+                  "name": "MM Theekshana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921067",
+                  "odds": "",
+                  "name": "K Kartikeya",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921069",
+                  "odds": "",
+                  "name": "A Madhwal",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921081",
+                  "odds": "",
+                  "name": "Sandeep Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658923208",
+                  "odds": "",
+                  "name": "Suryakumar Yadav",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923206",
+                  "odds": "",
+                  "name": "T Varma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923179",
+                  "odds": "",
+                  "name": "B Jacobs",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923186",
+                  "odds": "",
+                  "name": "HH Pandya",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923190",
+                  "odds": "",
+                  "name": "R Rickelton",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923196",
+                  "odds": "",
+                  "name": "RG Sharma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923167",
+                  "odds": "",
+                  "name": "R Bawa",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923198",
+                  "odds": "",
+                  "name": "KL Shrijith",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923175",
+                  "odds": "",
+                  "name": "N Dhir",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923177",
+                  "odds": "",
+                  "name": "WG Jacks",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923184",
+                  "odds": "",
+                  "name": "R Minz",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923192",
+                  "odds": "",
+                  "name": "MJ Santner",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923173",
+                  "odds": "",
+                  "name": "Deepak Chahar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923200",
+                  "odds": "",
+                  "name": "A Tendulkar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923194",
+                  "odds": "",
+                  "name": "Karn Sharma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923169",
+                  "odds": "",
+                  "name": "Corbin Bosch",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923171",
+                  "odds": "",
+                  "name": "TA Boult",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923189",
+                  "odds": "",
+                  "name": "PVS Raju",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923204",
+                  "odds": "",
+                  "name": "M ur Rahman",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923172",
+                  "odds": "",
+                  "name": "JJ Bumrah",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923182",
+                  "odds": "",
+                  "name": "A Kumar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923187",
+                  "odds": "",
+                  "name": "V Puthur",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923202",
+                  "odds": "",
+                  "name": "RJW Topley",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923208",
+                  "odds": "2.87",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923206",
+                  "odds": "5.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923179",
+                  "odds": "6.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923186",
+                  "odds": "6.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923190",
+                  "odds": "6.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923196",
+                  "odds": "7.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923167",
+                  "odds": "7.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923198",
+                  "odds": "7.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923175",
+                  "odds": "8.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923177",
+                  "odds": "8.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923184",
+                  "odds": "13.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923192",
+                  "odds": "17.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923173",
+                  "odds": "19.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923200",
+                  "odds": "19.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923194",
+                  "odds": "23.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923169",
+                  "odds": "41.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923171",
+                  "odds": "51.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923189",
+                  "odds": "51.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923204",
+                  "odds": "51.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923172",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923182",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923187",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923202",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746099484",
+          "sp": {
+            "player_to_score_most_match_4s": {
+              "id": "300186",
+              "name": "Player to Score Most Match 4s",
+              "odds": [
+                {
+                  "id": "658923652",
+                  "odds": "4.00",
+                  "name": "Y Jaiswal",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923724",
+                  "odds": "4.00",
+                  "name": "Suryakumar Yadav",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923699",
+                  "odds": "7.00",
+                  "name": "R Rickelton",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923723",
+                  "odds": "7.00",
+                  "name": "T Varma",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923663",
+                  "odds": "7.50",
+                  "name": "SV Samson",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923714",
+                  "odds": "9.00",
+                  "name": "RG Sharma",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923676",
+                  "odds": "10.00",
+                  "name": "WG Jacks",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923661",
+                  "odds": "12.00",
+                  "name": "N Rana",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923660",
+                  "odds": "13.00",
+                  "name": "R Parag",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923667",
+                  "odds": "13.00",
+                  "name": "V Suryavanshi",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923651",
+                  "odds": "15.00",
+                  "name": "SO Hetmyer",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923677",
+                  "odds": "15.00",
+                  "name": "B Jacobs",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923687",
+                  "odds": "17.00",
+                  "name": "HH Pandya",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923653",
+                  "odds": "19.00",
+                  "name": "D Jurel",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923650",
+                  "odds": "23.00",
+                  "name": "Wanindu Hasaranga",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923662",
+                  "odds": "23.00",
+                  "name": "KS Rathore",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923675",
+                  "odds": "23.00",
+                  "name": "N Dhir",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923684",
+                  "odds": "26.00",
+                  "name": "R Minz",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923717",
+                  "odds": "26.00",
+                  "name": "KL Shrijith",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923648",
+                  "odds": "34.00",
+                  "name": "S Dubey",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923670",
+                  "odds": "41.00",
+                  "name": "R Bawa",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923704",
+                  "odds": "41.00",
+                  "name": "MJ Santner",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923671",
+                  "odds": "51.00",
+                  "name": "Corbin Bosch",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923710",
+                  "odds": "51.00",
+                  "name": "Karn Sharma",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923718",
+                  "odds": "81.00",
+                  "name": "A Tendulkar",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923646",
+                  "odds": "101.00",
+                  "name": "JC Archer",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923647",
+                  "odds": "101.00",
+                  "name": "TU Deshpande",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923649",
+                  "odds": "101.00",
+                  "name": "F Farooqi",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923654",
+                  "odds": "101.00",
+                  "name": "K Kartikeya",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923655",
+                  "odds": "101.00",
+                  "name": "A Madhwal",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923658",
+                  "odds": "101.00",
+                  "name": "K Maphaka",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923664",
+                  "odds": "101.00",
+                  "name": "Ashok Sharma",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923665",
+                  "odds": "101.00",
+                  "name": "Sandeep Sharma",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923666",
+                  "odds": "101.00",
+                  "name": "Yudhvir Singh",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923669",
+                  "odds": "101.00",
+                  "name": "MM Theekshana",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923672",
+                  "odds": "101.00",
+                  "name": "TA Boult",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923673",
+                  "odds": "101.00",
+                  "name": "JJ Bumrah",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923674",
+                  "odds": "101.00",
+                  "name": "Deepak Chahar",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923679",
+                  "odds": "101.00",
+                  "name": "A Kumar",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923692",
+                  "odds": "101.00",
+                  "name": "V Puthur",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923694",
+                  "odds": "101.00",
+                  "name": "PVS Raju",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923720",
+                  "odds": "101.00",
+                  "name": "RJW Topley",
+                  "handicap": ""
+                },
+                {
+                  "id": "658923722",
+                  "odds": "101.00",
+                  "name": "M ur Rahman",
+                  "handicap": ""
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104499",
+          "sp": {
+            "player_to_score_most_match_4s_team": {
+              "id": "300187",
+              "name": "Player to Score Most Match 4s - Team",
+              "odds": [
+                {
+                  "id": "PC658921108",
+                  "odds": "",
+                  "name": "Y Jaiswal",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921124",
+                  "odds": "",
+                  "name": "SV Samson",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921117",
+                  "odds": "",
+                  "name": "R Parag",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921120",
+                  "odds": "",
+                  "name": "N Rana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921131",
+                  "odds": "",
+                  "name": "V Suryavanshi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921106",
+                  "odds": "",
+                  "name": "SO Hetmyer",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921104",
+                  "odds": "",
+                  "name": "Wanindu Hasaranga",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921110",
+                  "odds": "",
+                  "name": "D Jurel",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921122",
+                  "odds": "",
+                  "name": "KS Rathore",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921101",
+                  "odds": "",
+                  "name": "S Dubey",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921099",
+                  "odds": "",
+                  "name": "JC Archer",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921129",
+                  "odds": "",
+                  "name": "Yudhvir Singh",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921126",
+                  "odds": "",
+                  "name": "Ashok Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921115",
+                  "odds": "",
+                  "name": "K Maphaka",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921100",
+                  "odds": "",
+                  "name": "TU Deshpande",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921111",
+                  "odds": "",
+                  "name": "K Kartikeya",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921133",
+                  "odds": "",
+                  "name": "MM Theekshana",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921103",
+                  "odds": "",
+                  "name": "F Farooqi",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921113",
+                  "odds": "",
+                  "name": "A Madhwal",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658921128",
+                  "odds": "",
+                  "name": "Sandeep Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658923267",
+                  "odds": "",
+                  "name": "Suryakumar Yadav",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923264",
+                  "odds": "",
+                  "name": "T Varma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923242",
+                  "odds": "",
+                  "name": "R Rickelton",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923250",
+                  "odds": "",
+                  "name": "RG Sharma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923226",
+                  "odds": "",
+                  "name": "WG Jacks",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923227",
+                  "odds": "",
+                  "name": "B Jacobs",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923235",
+                  "odds": "",
+                  "name": "HH Pandya",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923225",
+                  "odds": "",
+                  "name": "N Dhir",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923232",
+                  "odds": "",
+                  "name": "R Minz",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923252",
+                  "odds": "",
+                  "name": "KL Shrijith",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923218",
+                  "odds": "",
+                  "name": "R Bawa",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923246",
+                  "odds": "",
+                  "name": "MJ Santner",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923219",
+                  "odds": "",
+                  "name": "Corbin Bosch",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923248",
+                  "odds": "",
+                  "name": "Karn Sharma",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923255",
+                  "odds": "",
+                  "name": "A Tendulkar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923223",
+                  "odds": "",
+                  "name": "Deepak Chahar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923221",
+                  "odds": "",
+                  "name": "TA Boult",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923222",
+                  "odds": "",
+                  "name": "JJ Bumrah",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923229",
+                  "odds": "",
+                  "name": "A Kumar",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923237",
+                  "odds": "",
+                  "name": "V Puthur",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923240",
+                  "odds": "",
+                  "name": "PVS Raju",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923258",
+                  "odds": "",
+                  "name": "RJW Topley",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "PC658923260",
+                  "odds": "",
+                  "name": "M ur Rahman",
+                  "header": "2",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923267",
+                  "odds": "3.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923264",
+                  "odds": "4.75",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923242",
+                  "odds": "5.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923250",
+                  "odds": "5.50",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923226",
+                  "odds": "7.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923227",
+                  "odds": "9.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923235",
+                  "odds": "11.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923225",
+                  "odds": "15.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923232",
+                  "odds": "15.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923252",
+                  "odds": "15.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923218",
+                  "odds": "23.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923246",
+                  "odds": "23.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923219",
+                  "odds": "34.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923248",
+                  "odds": "41.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923255",
+                  "odds": "51.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923223",
+                  "odds": "81.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923221",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923222",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923229",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923237",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923240",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923258",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                },
+                {
+                  "id": "658923260",
+                  "odds": "101.00",
+                  "header": "Odds",
+                  "team": "Odds"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746102013",
+          "sp": {
+            "match_runs_at_fall_of_first_wicket_(3_way)": {
+              "id": "300189",
+              "name": "Match - Runs at Fall of First Wicket - (3 Way)",
+              "odds": [
+                {
+                  "id": "659474591",
+                  "odds": "2.05",
+                  "name": "28",
+                  "header": "Over",
+                  "handicap": ""
+                },
+                {
+                  "id": "659474594",
+                  "odds": "6.50",
+                  "name": "18 - 28",
+                  "header": "Between",
+                  "handicap": ""
+                },
+                {
+                  "id": "659474598",
+                  "odds": "2.10",
+                  "name": "18",
+                  "header": "Under",
+                  "handicap": ""
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103610",
+          "sp": {
+            "match_runs_at_fall_of_first_wicket_team_(3_way)": {
+              "id": "300191",
+              "name": "Match - Runs at Fall of First Wicket - Team (3 Way)",
+              "odds": [
+                { "id": "PC659734161", "odds": "", "name": "1", "header": "" },
+                { "id": "PC670131884", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "659734161",
+                  "odds": "2.10",
+                  "header": "Over",
+                  "handicap": "30"
+                },
+                {
+                  "id": "670131884",
+                  "odds": "2.20",
+                  "header": "Over",
+                  "handicap": "28"
+                },
+                {
+                  "id": "659734163",
+                  "odds": "6.50",
+                  "header": "Between",
+                  "handicap": "20 - 30"
+                },
+                {
+                  "id": "670131885",
+                  "odds": "6.00",
+                  "header": "Between",
+                  "handicap": "18 - 28"
+                },
+                {
+                  "id": "659734165",
+                  "odds": "2.10",
+                  "header": "Under",
+                  "handicap": "20"
+                },
+                {
+                  "id": "670131886",
+                  "odds": "2.05",
+                  "header": "Under",
+                  "handicap": "18"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103202",
+          "sp": {
+            "match_runs_in_1st_x_overs": {
+              "id": "300194",
+              "name": "Match - Runs in 1st x Overs",
+              "odds": [
+                {
+                  "id": "658773253",
+                  "odds": "1.83",
+                  "name": "6 Overs",
+                  "header": "Over",
+                  "handicap": "55.5"
+                },
+                {
+                  "id": "658773260",
+                  "odds": "1.83",
+                  "name": "10 Overs",
+                  "header": "Over",
+                  "handicap": "88.5"
+                },
+                {
+                  "id": "658773268",
+                  "odds": "1.83",
+                  "name": "15 Overs",
+                  "header": "Over",
+                  "handicap": "137.5"
+                },
+                {
+                  "id": "658773247",
+                  "odds": "1.83",
+                  "name": "6 Overs",
+                  "header": "Under",
+                  "handicap": "55.5"
+                },
+                {
+                  "id": "658773256",
+                  "odds": "1.83",
+                  "name": "10 Overs",
+                  "header": "Under",
+                  "handicap": "88.5"
+                },
+                {
+                  "id": "658773265",
+                  "odds": "1.83",
+                  "name": "15 Overs",
+                  "header": "Under",
+                  "handicap": "137.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746102322",
+          "sp": {
+            "match_runs_in_1st_x_overs_team": {
+              "id": "300195",
+              "name": "Match - Runs in 1st x Overs - Team",
+              "odds": [
+                {
+                  "id": "PC658773275",
+                  "odds": "",
+                  "name": "6 Overs",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773280",
+                  "odds": "",
+                  "name": "10 Overs",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773287",
+                  "odds": "",
+                  "name": "15 Overs",
+                  "header": "1"
+                },
+                {
+                  "id": "658773273",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "54.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773277",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "84.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773281",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "134.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "PC658773292",
+                  "odds": "",
+                  "name": "6 Overs",
+                  "header": "2",
+                  "team": "Over"
+                },
+                {
+                  "id": "PC658773301",
+                  "odds": "",
+                  "name": "10 Overs",
+                  "header": "2",
+                  "team": "Over"
+                },
+                {
+                  "id": "PC658773309",
+                  "odds": "",
+                  "name": "15 Overs",
+                  "header": "2",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773292",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "56.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773301",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "90.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773309",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "140.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773290",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "56.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773297",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "90.5",
+                  "team": "Over"
+                },
+                {
+                  "id": "658773305",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "140.5",
+                  "team": "Over"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746102605",
+          "sp": {
+            "match_runs_off_x_delivery": {
+              "id": "300197",
+              "name": "Match - Runs off x Delivery",
+              "odds": [
+                {
+                  "id": "PC658773327",
+                  "odds": "",
+                  "name": "1st Ball",
+                  "header": ""
+                },
+                {
+                  "id": "PC658773346",
+                  "odds": "",
+                  "name": "2nd Ball",
+                  "header": ""
+                },
+                {
+                  "id": "PC658773363",
+                  "odds": "",
+                  "name": "3rd Ball",
+                  "header": ""
+                },
+                {
+                  "id": "PC658773373",
+                  "odds": "",
+                  "name": "4th Ball",
+                  "header": ""
+                },
+                {
+                  "id": "PC658773383",
+                  "odds": "",
+                  "name": "5th Ball",
+                  "header": ""
+                },
+                {
+                  "id": "PC658773396",
+                  "odds": "",
+                  "name": "6th Ball",
+                  "header": ""
+                },
+                { "id": "658773315", "odds": "1.83", "header": "Over" },
+                { "id": "658773331", "odds": "1.83", "header": "Over" },
+                { "id": "658773351", "odds": "1.83", "header": "Over" },
+                { "id": "658773366", "odds": "1.83", "header": "Over" },
+                { "id": "658773376", "odds": "1.83", "header": "Over" },
+                { "id": "658773387", "odds": "1.83", "header": "Over" },
+                { "id": "658773321", "odds": "5.50", "header": "Over" },
+                { "id": "658773341", "odds": "5.50", "header": "Over" },
+                { "id": "658773359", "odds": "5.50", "header": "Over" },
+                { "id": "658773371", "odds": "5.50", "header": "Over" },
+                { "id": "658773381", "odds": "5.50", "header": "Over" },
+                { "id": "658773393", "odds": "5.50", "header": "Over" },
+                { "id": "658773319", "odds": "1.83", "header": "Under" },
+                { "id": "658773337", "odds": "1.83", "header": "Under" },
+                { "id": "658773353", "odds": "1.83", "header": "Under" },
+                { "id": "658773368", "odds": "1.83", "header": "Under" },
+                { "id": "658773378", "odds": "1.83", "header": "Under" },
+                { "id": "658773390", "odds": "1.83", "header": "Under" },
+                { "id": "658773327", "odds": "1.14", "header": "Under" },
+                { "id": "658773346", "odds": "1.14", "header": "Under" },
+                { "id": "658773363", "odds": "1.14", "header": "Under" },
+                { "id": "658773373", "odds": "1.14", "header": "Under" },
+                { "id": "658773383", "odds": "1.14", "header": "Under" },
+                { "id": "658773396", "odds": "1.14", "header": "Under" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746100813",
+          "sp": {
+            "match_runs_off_x_delivery_team": {
+              "id": "300198",
+              "name": "Match - Runs off x Delivery - Team",
+              "odds": [
+                {
+                  "id": "PC658773418",
+                  "odds": "",
+                  "name": "1st Ball",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773438",
+                  "odds": "",
+                  "name": "2nd Ball",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773460",
+                  "odds": "",
+                  "name": "3rd Ball",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773474",
+                  "odds": "",
+                  "name": "4th Ball",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773485",
+                  "odds": "",
+                  "name": "5th Ball",
+                  "header": "1"
+                },
+                {
+                  "id": "PC658773495",
+                  "odds": "",
+                  "name": "6th Ball",
+                  "header": "1"
+                },
+                { "id": "658773402", "odds": "1.83", "header": "Over" },
+                { "id": "658773424", "odds": "1.83", "header": "Over" },
+                { "id": "658773443", "odds": "1.83", "header": "Over" },
+                { "id": "658773464", "odds": "1.83", "header": "Over" },
+                { "id": "658773479", "odds": "1.83", "header": "Over" },
+                { "id": "658773488", "odds": "1.83", "header": "Over" },
+                { "id": "658773413", "odds": "5.50", "header": "Over" },
+                { "id": "658773433", "odds": "5.50", "header": "Over" },
+                { "id": "658773455", "odds": "5.50", "header": "Over" },
+                { "id": "658773471", "odds": "5.50", "header": "Over" },
+                { "id": "658773483", "odds": "5.50", "header": "Over" },
+                { "id": "658773492", "odds": "5.50", "header": "Over" },
+                { "id": "658773407", "odds": "1.83", "header": "Under" },
+                { "id": "658773428", "odds": "1.83", "header": "Under" },
+                { "id": "658773449", "odds": "1.83", "header": "Under" },
+                { "id": "658773468", "odds": "1.83", "header": "Under" },
+                { "id": "658773481", "odds": "1.83", "header": "Under" },
+                { "id": "658773490", "odds": "1.83", "header": "Under" },
+                { "id": "658773418", "odds": "1.14", "header": "Under" },
+                { "id": "658773438", "odds": "1.14", "header": "Under" },
+                { "id": "658773460", "odds": "1.14", "header": "Under" },
+                { "id": "658773474", "odds": "1.14", "header": "Under" },
+                { "id": "658773485", "odds": "1.14", "header": "Under" },
+                { "id": "658773495", "odds": "1.14", "header": "Under" },
+                {
+                  "id": "PC658773508",
+                  "odds": "",
+                  "name": "1st Ball",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658773519",
+                  "odds": "",
+                  "name": "2nd Ball",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658773531",
+                  "odds": "",
+                  "name": "3rd Ball",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658773542",
+                  "odds": "",
+                  "name": "4th Ball",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658773553",
+                  "odds": "",
+                  "name": "5th Ball",
+                  "header": "2"
+                },
+                {
+                  "id": "PC658773565",
+                  "odds": "",
+                  "name": "6th Ball",
+                  "header": "2"
+                },
+                { "id": "658773499", "odds": "1.83", "header": "Over" },
+                { "id": "658773511", "odds": "1.83", "header": "Over" },
+                { "id": "658773520", "odds": "1.83", "header": "Over" },
+                { "id": "658773533", "odds": "1.83", "header": "Over" },
+                { "id": "658773545", "odds": "1.83", "header": "Over" },
+                { "id": "658773556", "odds": "1.83", "header": "Over" },
+                { "id": "658773505", "odds": "5.50", "header": "Over" },
+                { "id": "658773516", "odds": "5.50", "header": "Over" },
+                { "id": "658773529", "odds": "5.50", "header": "Over" },
+                { "id": "658773539", "odds": "5.50", "header": "Over" },
+                { "id": "658773550", "odds": "5.50", "header": "Over" },
+                { "id": "658773564", "odds": "5.50", "header": "Over" },
+                { "id": "658773502", "odds": "1.83", "header": "Under" },
+                { "id": "658773514", "odds": "1.83", "header": "Under" },
+                { "id": "658773524", "odds": "1.83", "header": "Under" },
+                { "id": "658773536", "odds": "1.83", "header": "Under" },
+                { "id": "658773547", "odds": "1.83", "header": "Under" },
+                { "id": "658773560", "odds": "1.83", "header": "Under" },
+                { "id": "658773508", "odds": "1.14", "header": "Under" },
+                { "id": "658773519", "odds": "1.14", "header": "Under" },
+                { "id": "658773531", "odds": "1.14", "header": "Under" },
+                { "id": "658773542", "odds": "1.14", "header": "Under" },
+                { "id": "658773553", "odds": "1.14", "header": "Under" },
+                { "id": "658773565", "odds": "1.14", "header": "Under" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104846",
+          "sp": {
+            "six_boundaries_in_an_over_match": {
+              "id": "300200",
+              "name": "Six Boundaries in an Over - Match",
+              "odds": [
+                { "id": "658771863", "odds": "17.00", "name": "Yes" },
+                { "id": "658771870", "odds": "1.01", "name": "No" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104623",
+          "sp": {
+            "highest_opening_partnership": {
+              "id": "30021",
+              "name": "Highest Opening Partnership",
+              "odds": [
+                { "id": "658770584", "odds": "1.90", "name": "1" },
+                { "id": "658770586", "odds": "29.00", "name": "Tie" },
+                { "id": "658770587", "odds": "1.90", "name": "2" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103334",
+          "sp": {
+            "toss_bat_flip_and_match_result": {
+              "id": "300212",
+              "name": "Toss/Bat Flip and Match Result",
+              "odds": [
+                {
+                  "id": "658771899",
+                  "odds": "4.75",
+                  "name": "Rajasthan Royals Win Toss & Rajasthan Royals Win"
+                },
+                {
+                  "id": "658771903",
+                  "odds": "3.10",
+                  "name": "Rajasthan Royals Win Toss & Mumbai Indians Win"
+                },
+                {
+                  "id": "658771906",
+                  "odds": "5.50",
+                  "name": "Mumbai Indians Win Toss & Rajasthan Royals Win"
+                },
+                {
+                  "id": "658771909",
+                  "odds": "2.87",
+                  "name": "Mumbai Indians Win Toss & Mumbai Indians Win"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103625",
+          "sp": {
+            "match_totals": {
+              "id": "300230",
+              "name": "Match Totals",
+              "odds": [
+                {
+                  "id": "PC658772579",
+                  "odds": "",
+                  "name": "Fours",
+                  "header": ""
+                },
+                {
+                  "id": "PC658772445",
+                  "odds": "",
+                  "name": "Sixes",
+                  "header": ""
+                },
+                {
+                  "id": "PC658771939",
+                  "odds": "",
+                  "name": "Boundaries",
+                  "header": ""
+                },
+                {
+                  "id": "658772579",
+                  "odds": "1.90",
+                  "header": "Over",
+                  "handicap": "31.5"
+                },
+                {
+                  "id": "658772445",
+                  "odds": "1.72",
+                  "header": "Over",
+                  "handicap": "17.5"
+                },
+                {
+                  "id": "658771939",
+                  "odds": "1.90",
+                  "header": "Over",
+                  "handicap": "49.5"
+                },
+                {
+                  "id": "658772581",
+                  "odds": "1.80",
+                  "header": "Under",
+                  "handicap": "31.5"
+                },
+                {
+                  "id": "658772449",
+                  "odds": "2.00",
+                  "header": "Under",
+                  "handicap": "17.5"
+                },
+                {
+                  "id": "658771942",
+                  "odds": "1.80",
+                  "header": "Under",
+                  "handicap": "49.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104258",
+          "sp": {
+            "total_match_boundaries_team": {
+              "id": "300231",
+              "name": "Total Match Boundaries - Team",
+              "odds": [
+                { "id": "PC658771970", "odds": "", "name": "1", "header": "" },
+                { "id": "PC658771998", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "658771970",
+                  "odds": "1.80",
+                  "header": "Over",
+                  "handicap": "23.5"
+                },
+                {
+                  "id": "658771998",
+                  "odds": "1.83",
+                  "header": "Over",
+                  "handicap": "25.5"
+                },
+                {
+                  "id": "658771974",
+                  "odds": "1.90",
+                  "header": "Under",
+                  "handicap": "23.5"
+                },
+                {
+                  "id": "658772001",
+                  "odds": "1.83",
+                  "header": "Under",
+                  "handicap": "25.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103942",
+          "sp": {
+            "total_run_outs_match": {
+              "id": "300249",
+              "name": "Total Run Outs - Match",
+              "odds": [
+                { "id": "658772022", "odds": "1.72", "name": "Over 0.5" },
+                { "id": "658772024", "odds": "2.00", "name": "Under 0.5" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746103992",
+          "sp": {
+            "total_run_outs_match_team": {
+              "id": "300250",
+              "name": "Total Run Outs - Match - Team",
+              "odds": [
+                { "id": "PC658772035", "odds": "", "name": "1", "header": "" },
+                { "id": "PC658772046", "odds": "", "name": "2", "header": "" },
+                {
+                  "id": "658772035",
+                  "odds": "3.25",
+                  "header": "Over",
+                  "handicap": "0.5"
+                },
+                {
+                  "id": "658772046",
+                  "odds": "2.62",
+                  "header": "Over",
+                  "handicap": "0.5"
+                },
+                {
+                  "id": "658772037",
+                  "odds": "1.33",
+                  "header": "Under",
+                  "handicap": "0.5"
+                },
+                {
+                  "id": "658772048",
+                  "odds": "1.44",
+                  "header": "Under",
+                  "handicap": "0.5"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746105403",
+          "sp": {
+            "race_to_10_runs": {
+              "id": "30052",
+              "name": "Race to 10 Runs",
+              "odds": [
+                {
+                  "id": "658773150",
+                  "odds": "1.66",
+                  "name": "Y Jaiswal v V Suryavanshi",
+                  "header": "1"
+                },
+                {
+                  "id": "658773163",
+                  "odds": "1.90",
+                  "name": "R Rickelton v RG Sharma",
+                  "header": "1"
+                },
+                {
+                  "id": "658773159",
+                  "odds": "12.00",
+                  "name": "Y Jaiswal v V Suryavanshi",
+                  "header": "Neither"
+                },
+                {
+                  "id": "658773169",
+                  "odds": "10.00",
+                  "name": "R Rickelton v RG Sharma",
+                  "header": "Neither"
+                },
+                {
+                  "id": "658773155",
+                  "odds": "2.40",
+                  "name": "Y Jaiswal v V Suryavanshi",
+                  "header": "2"
+                },
+                {
+                  "id": "658773165",
+                  "odds": "2.10",
+                  "name": "R Rickelton v RG Sharma",
+                  "header": "2"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104100",
+          "sp": {
+            "1st_wicket_method": {
+              "id": "30205",
+              "name": "1st Wicket Method",
+              "odds": [
+                { "id": "658770645", "odds": "1.36", "name": "Caught" },
+                { "id": "658770646", "odds": "4.50", "name": "Bowled" },
+                { "id": "658770648", "odds": "9.50", "name": "LBW" },
+                { "id": "658770650", "odds": "21.00", "name": "Run Out" },
+                { "id": "658770652", "odds": "23.00", "name": "Stumped" },
+                { "id": "658770653", "odds": "201.00", "name": "Others" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746105124",
+          "sp": {
+            "most_run_outs_(fielding)": {
+              "id": "30207",
+              "name": "Most Run Outs (Fielding)",
+              "odds": [
+                { "id": "658770664", "odds": "4.33", "name": "1" },
+                { "id": "658770665", "odds": "1.72", "name": "Tie" },
+                { "id": "658770667", "odds": "3.40", "name": "2" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746105001",
+          "sp": {
+            "batter_to_score_a_fifty_in_the_match": {
+              "id": "30216",
+              "name": "Batter to Score a Fifty in the Match",
+              "odds": [
+                {
+                  "id": "658938143",
+                  "odds": "4.00",
+                  "name": "R Parag",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922847",
+                  "odds": "4.50",
+                  "name": "N Rana",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922882",
+                  "odds": "4.50",
+                  "name": "R Rickelton",
+                  "name2": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922894",
+                  "odds": "4.50",
+                  "name": "RG Sharma",
+                  "name2": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922872",
+                  "odds": "5.00",
+                  "name": "WG Jacks",
+                  "name2": "2",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922861",
+                  "odds": "6.50",
+                  "name": "V Suryavanshi",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658938145",
+                  "odds": "1.22",
+                  "name": "R Parag",
+                  "name2": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658922848",
+                  "odds": "1.18",
+                  "name": "N Rana",
+                  "name2": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658922884",
+                  "odds": "1.18",
+                  "name": "R Rickelton",
+                  "name2": "2",
+                  "header": "No"
+                },
+                {
+                  "id": "658922896",
+                  "odds": "1.18",
+                  "name": "RG Sharma",
+                  "name2": "2",
+                  "header": "No"
+                },
+                {
+                  "id": "658922874",
+                  "odds": "1.16",
+                  "name": "WG Jacks",
+                  "name2": "2",
+                  "header": "No"
+                },
+                {
+                  "id": "658922863",
+                  "odds": "1.11",
+                  "name": "V Suryavanshi",
+                  "name2": "1",
+                  "header": "No"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746105226",
+          "sp": {
+            "batter_to_score_a_hundred_in_the_match": {
+              "id": "30217",
+              "name": "Batter to Score a Hundred in the Match",
+              "odds": [
+                {
+                  "id": "658922905",
+                  "odds": "26.00",
+                  "name": "N Rana",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658938188",
+                  "odds": "51.00",
+                  "name": "R Parag",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922907",
+                  "odds": "34.00",
+                  "name": "V Suryavanshi",
+                  "name2": "1",
+                  "header": "Yes"
+                },
+                {
+                  "id": "658922906",
+                  "odds": "1.01",
+                  "name": "N Rana",
+                  "name2": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658938190",
+                  "odds": "1.00",
+                  "name": "R Parag",
+                  "name2": "1",
+                  "header": "No"
+                },
+                {
+                  "id": "658922908",
+                  "odds": "1.00",
+                  "name": "V Suryavanshi",
+                  "name2": "1",
+                  "header": "No"
+                }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746102987",
+          "sp": {
+            "top_match_batter": {
+              "id": "30245",
+              "name": "Top Match Batter",
+              "odds": [
+                { "id": "658923359", "odds": "5.00", "name": "Y Jaiswal" },
+                {
+                  "id": "658923408",
+                  "odds": "5.00",
+                  "name": "Suryakumar Yadav"
+                },
+                { "id": "658923371", "odds": "6.00", "name": "SV Samson" },
+                { "id": "658923399", "odds": "7.00", "name": "R Rickelton" },
+                { "id": "658923376", "odds": "7.50", "name": "V Suryavanshi" },
+                { "id": "658923402", "odds": "7.50", "name": "RG Sharma" },
+                { "id": "658923368", "odds": "8.00", "name": "N Rana" },
+                { "id": "658923366", "odds": "9.00", "name": "R Parag" },
+                { "id": "658923388", "odds": "9.00", "name": "WG Jacks" },
+                { "id": "658923407", "odds": "9.50", "name": "T Varma" },
+                { "id": "658923403", "odds": "12.00", "name": "KL Shrijith" },
+                { "id": "658923390", "odds": "13.00", "name": "B Jacobs" },
+                { "id": "658923358", "odds": "21.00", "name": "SO Hetmyer" },
+                { "id": "658923361", "odds": "21.00", "name": "D Jurel" },
+                { "id": "658923395", "odds": "23.00", "name": "HH Pandya" },
+                { "id": "658923393", "odds": "26.00", "name": "R Minz" },
+                { "id": "658923369", "odds": "34.00", "name": "KS Rathore" },
+                { "id": "658923349", "odds": "41.00", "name": "S Dubey" },
+                { "id": "658923380", "odds": "41.00", "name": "R Bawa" },
+                { "id": "658923387", "odds": "41.00", "name": "N Dhir" },
+                {
+                  "id": "658923357",
+                  "odds": "51.00",
+                  "name": "Wanindu Hasaranga"
+                },
+                { "id": "658923400", "odds": "67.00", "name": "MJ Santner" },
+                { "id": "658923404", "odds": "81.00", "name": "A Tendulkar" },
+                { "id": "658923381", "odds": "101.00", "name": "Corbin Bosch" },
+                { "id": "658923401", "odds": "101.00", "name": "Karn Sharma" },
+                { "id": "658923345", "odds": "151.00", "name": "JC Archer" },
+                {
+                  "id": "658923375",
+                  "odds": "201.00",
+                  "name": "Yudhvir Singh"
+                },
+                {
+                  "id": "658923386",
+                  "odds": "251.00",
+                  "name": "Deepak Chahar"
+                },
+                { "id": "658923347", "odds": "501.00", "name": "TU Deshpande" },
+                { "id": "658923353", "odds": "501.00", "name": "F Farooqi" },
+                { "id": "658923362", "odds": "501.00", "name": "K Kartikeya" },
+                { "id": "658923363", "odds": "501.00", "name": "A Madhwal" },
+                { "id": "658923365", "odds": "501.00", "name": "K Maphaka" },
+                { "id": "658923372", "odds": "501.00", "name": "Ashok Sharma" },
+                {
+                  "id": "658923374",
+                  "odds": "501.00",
+                  "name": "Sandeep Sharma"
+                },
+                {
+                  "id": "658923378",
+                  "odds": "501.00",
+                  "name": "MM Theekshana"
+                },
+                { "id": "658923383", "odds": "501.00", "name": "TA Boult" },
+                { "id": "658923384", "odds": "501.00", "name": "JJ Bumrah" },
+                { "id": "658923391", "odds": "501.00", "name": "A Kumar" },
+                { "id": "658923396", "odds": "501.00", "name": "V Puthur" },
+                { "id": "658923398", "odds": "501.00", "name": "PVS Raju" },
+                { "id": "658923405", "odds": "501.00", "name": "RJW Topley" },
+                { "id": "658923406", "odds": "501.00", "name": "M ur Rahman" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746104438",
+          "sp": {
+            "top_match_bowler": {
+              "id": "30246",
+              "name": "Top Match Bowler",
+              "odds": [
+                { "id": "658923481", "odds": "4.50", "name": "JJ Bumrah" },
+                { "id": "658923414", "odds": "6.00", "name": "JC Archer" },
+                { "id": "658923490", "odds": "6.50", "name": "TA Boult" },
+                { "id": "658923413", "odds": "7.00", "name": "F Farooqi" },
+                { "id": "658923448", "odds": "7.00", "name": "TU Deshpande" },
+                {
+                  "id": "658923470",
+                  "odds": "7.00",
+                  "name": "Wanindu Hasaranga"
+                },
+                { "id": "658923437", "odds": "7.50", "name": "Sandeep Sharma" },
+                { "id": "658923411", "odds": "8.00", "name": "A Madhwal" },
+                { "id": "658923420", "odds": "8.00", "name": "MM Theekshana" },
+                { "id": "658923479", "odds": "8.00", "name": "Deepak Chahar" },
+                { "id": "658923480", "odds": "8.00", "name": "HH Pandya" },
+                { "id": "658923476", "odds": "8.50", "name": "A Kumar" },
+                { "id": "658923483", "odds": "9.00", "name": "M ur Rahman" },
+                { "id": "658923494", "odds": "9.00", "name": "V Puthur" },
+                { "id": "658923488", "odds": "9.50", "name": "RJW Topley" },
+                { "id": "658923419", "odds": "10.00", "name": "K Maphaka" },
+                { "id": "658923484", "odds": "10.00", "name": "MJ Santner" },
+                { "id": "658923412", "odds": "11.00", "name": "Ashok Sharma" },
+                { "id": "658923474", "odds": "11.00", "name": "Yudhvir Singh" },
+                { "id": "658923416", "odds": "12.00", "name": "K Kartikeya" },
+                { "id": "658923478", "odds": "12.00", "name": "Corbin Bosch" },
+                { "id": "658923482", "odds": "13.00", "name": "Karn Sharma" },
+                { "id": "658923477", "odds": "15.00", "name": "A Tendulkar" },
+                { "id": "658923486", "odds": "15.00", "name": "R Bawa" },
+                { "id": "658923508", "odds": "17.00", "name": "WG Jacks" },
+                { "id": "658923421", "odds": "19.00", "name": "N Rana" },
+                { "id": "658923422", "odds": "19.00", "name": "R Parag" },
+                { "id": "658923485", "odds": "21.00", "name": "PVS Raju" },
+                { "id": "658923458", "odds": "29.00", "name": "V Suryavanshi" }
+              ],
+              "open": 0
+            }
+          }
+        },
+        {
+          "updated_at": "1746101091",
+          "sp": {
+            "player_of_the_match": {
+              "id": "346",
+              "name": "Player of the Match",
+              "odds": [
+                {
+                  "id": "658923591",
+                  "odds": "6.50",
+                  "name": "Suryakumar Yadav"
+                },
+                { "id": "658923546", "odds": "8.50", "name": "Y Jaiswal" },
+                { "id": "658923577", "odds": "8.50", "name": "HH Pandya" },
+                { "id": "658923569", "odds": "9.00", "name": "TA Boult" },
+                { "id": "658923570", "odds": "9.00", "name": "JJ Bumrah" },
+                { "id": "658923559", "odds": "10.00", "name": "SV Samson" },
+                { "id": "658923581", "odds": "10.00", "name": "R Rickelton" },
+                { "id": "658923565", "odds": "11.00", "name": "V Suryavanshi" },
+                { "id": "658923573", "odds": "11.00", "name": "WG Jacks" },
+                { "id": "658923585", "odds": "11.00", "name": "RG Sharma" },
+                { "id": "658923554", "odds": "12.00", "name": "R Parag" },
+                { "id": "658923540", "odds": "13.00", "name": "JC Archer" },
+                {
+                  "id": "658923544",
+                  "odds": "13.00",
+                  "name": "Wanindu Hasaranga"
+                },
+                { "id": "658923545", "odds": "13.00", "name": "SO Hetmyer" },
+                { "id": "658923590", "odds": "13.00", "name": "T Varma" },
+                { "id": "658923547", "odds": "15.00", "name": "D Jurel" },
+                { "id": "658923556", "odds": "15.00", "name": "N Rana" },
+                { "id": "658923571", "odds": "15.00", "name": "Deepak Chahar" },
+                { "id": "658923583", "odds": "15.00", "name": "MJ Santner" },
+                { "id": "658923589", "odds": "15.00", "name": "M ur Rahman" },
+                { "id": "658923543", "odds": "17.00", "name": "F Farooqi" },
+                { "id": "658923566", "odds": "17.00", "name": "MM Theekshana" },
+                { "id": "658923572", "odds": "17.00", "name": "N Dhir" },
+                { "id": "658923588", "odds": "17.00", "name": "RJW Topley" },
+                { "id": "658923541", "odds": "21.00", "name": "TU Deshpande" },
+                { "id": "658923542", "odds": "21.00", "name": "S Dubey" },
+                {
+                  "id": "658923561",
+                  "odds": "21.00",
+                  "name": "Sandeep Sharma"
+                },
+                { "id": "658923576", "odds": "21.00", "name": "R Minz" },
+                { "id": "658923578", "odds": "21.00", "name": "V Puthur" },
+                { "id": "658923579", "odds": "21.00", "name": "PVS Raju" },
+                { "id": "658923568", "odds": "23.00", "name": "Corbin Bosch" },
+                { "id": "658923548", "odds": "26.00", "name": "K Kartikeya" },
+                { "id": "658923552", "odds": "26.00", "name": "A Madhwal" },
+                { "id": "658923560", "odds": "26.00", "name": "Ashok Sharma" },
+                { "id": "658923574", "odds": "26.00", "name": "B Jacobs" },
+                { "id": "658923584", "odds": "26.00", "name": "Karn Sharma" },
+                { "id": "658923586", "odds": "26.00", "name": "KL Shrijith" },
+                { "id": "658923557", "odds": "29.00", "name": "KS Rathore" },
+                { "id": "658923553", "odds": "34.00", "name": "K Maphaka" },
+                { "id": "658923563", "odds": "34.00", "name": "Yudhvir Singh" },
+                { "id": "658923567", "odds": "34.00", "name": "R Bawa" },
+                { "id": "658923575", "odds": "34.00", "name": "A Kumar" },
+                { "id": "658923587", "odds": "34.00", "name": "A Tendulkar" }
+              ],
+              "open": 0
+            }
+          }
+        }
+      ],
+      "player": {
+        "updated_at": "1746104701",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#I2#",
+        "sp": {
+          "player_of_the_match": {
+            "id": "346",
+            "name": "Player of the Match",
+            "odds": [],
+            "open": 0
+          },
+          "player_to_score_most_6s_team": {
+            "id": "300184",
+            "name": "Player to Score Most 6s - Team",
+            "odds": [],
+            "open": 0
+          },
+          "player_to_score_most_match_6s": {
+            "id": "300014",
+            "name": "Player to Score Most Match 6s",
+            "odds": [],
+            "open": 0
+          },
+          "player_to_score_most_match_4s_team": {
+            "id": "300187",
+            "name": "Player to Score Most Match 4s - Team",
+            "odds": [],
+            "open": 0
+          },
+          "player_to_score_most_match_4s": {
+            "id": "300186",
+            "name": "Player to Score Most Match 4s",
+            "odds": [],
+            "open": 0
+          },
+          "batter_match_runs": {
+            "id": "300331",
+            "name": "Batter Match Runs",
+            "odds": [
+              {
+                "id": "658922765",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "21.5"
+              },
+              {
+                "id": "658938098",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "23.5"
+              },
+              {
+                "id": "658922779",
+                "odds": "1.83",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "18.5"
+              },
+              {
+                "id": "658922737",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "25.5"
+              },
+              {
+                "id": "658922802",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "21.5"
+              },
+              {
+                "id": "658922815",
+                "odds": "1.83",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "23.5"
+              },
+              {
+                "id": "658938123",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658922788",
+                "odds": "1.83",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "19.5"
+              },
+              {
+                "id": "658922766",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "21.5"
+              },
+              {
+                "id": "658938106",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "23.5"
+              },
+              {
+                "id": "658922780",
+                "odds": "1.83",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "18.5"
+              },
+              {
+                "id": "658922739",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "25.5"
+              },
+              {
+                "id": "658922803",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "21.5"
+              },
+              {
+                "id": "658922816",
+                "odds": "1.83",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "23.5"
+              },
+              {
+                "id": "658938125",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658922789",
+                "odds": "1.83",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "19.5"
+              }
+            ]
+          },
+          "batter_milestones": {
+            "id": "300388",
+            "name": "Batter Milestones",
+            "odds": [
+              {
+                "id": "658924084",
+                "odds": "1.40",
+                "name": "D Jurel",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924106",
+                "odds": "1.33",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924096",
+                "odds": "1.28",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924050",
+                "odds": "1.33",
+                "name": "SO Hetmyer",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924116",
+                "odds": "1.33",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924037",
+                "odds": "1.50",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924069",
+                "odds": "1.25",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924124",
+                "odds": "1.72",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924150",
+                "odds": "1.36",
+                "name": "HH Pandya",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924134",
+                "odds": "1.44",
+                "name": "N Dhir",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924159",
+                "odds": "1.33",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924166",
+                "odds": "1.30",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924178",
+                "odds": "1.20",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924173",
+                "odds": "1.25",
+                "name": "T Varma",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924142",
+                "odds": "1.36",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "10+ Runs"
+              },
+              {
+                "id": "658924088",
+                "odds": "1.90",
+                "name": "D Jurel",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924109",
+                "odds": "1.72",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924100",
+                "odds": "1.61",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924053",
+                "odds": "1.72",
+                "name": "SO Hetmyer",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924118",
+                "odds": "1.72",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924040",
+                "odds": "2.10",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924072",
+                "odds": "1.53",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924125",
+                "odds": "3.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924152",
+                "odds": "1.80",
+                "name": "HH Pandya",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924136",
+                "odds": "1.90",
+                "name": "N Dhir",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924161",
+                "odds": "1.72",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924167",
+                "odds": "1.66",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924179",
+                "odds": "1.44",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924174",
+                "odds": "1.53",
+                "name": "T Varma",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924144",
+                "odds": "1.83",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "20+ Runs"
+              },
+              {
+                "id": "658924090",
+                "odds": "2.62",
+                "name": "D Jurel",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924110",
+                "odds": "2.20",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924102",
+                "odds": "2.00",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924055",
+                "odds": "2.20",
+                "name": "SO Hetmyer",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924119",
+                "odds": "2.25",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924043",
+                "odds": "3.25",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924075",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924128",
+                "odds": "6.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924153",
+                "odds": "2.37",
+                "name": "HH Pandya",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924137",
+                "odds": "2.75",
+                "name": "N Dhir",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924162",
+                "odds": "2.20",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924169",
+                "odds": "2.10",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924180",
+                "odds": "1.72",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924175",
+                "odds": "1.83",
+                "name": "T Varma",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924146",
+                "odds": "2.37",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "30+ Runs"
+              },
+              {
+                "id": "658924092",
+                "odds": "5.00",
+                "name": "D Jurel",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924113",
+                "odds": "4.50",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924103",
+                "odds": "4.00",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924058",
+                "odds": "5.00",
+                "name": "SO Hetmyer",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924121",
+                "odds": "6.50",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924045",
+                "odds": "15.00",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924078",
+                "odds": "2.75",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924130",
+                "odds": "51.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924156",
+                "odds": "5.00",
+                "name": "HH Pandya",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924138",
+                "odds": "11.00",
+                "name": "N Dhir",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924163",
+                "odds": "4.50",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924170",
+                "odds": "4.50",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924181",
+                "odds": "2.75",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924176",
+                "odds": "2.75",
+                "name": "T Varma",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924147",
+                "odds": "5.00",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "50+ Runs"
+              },
+              {
+                "id": "658924094",
+                "odds": "19.00",
+                "name": "D Jurel",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924114",
+                "odds": "5.50",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924104",
+                "odds": "5.50",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924061",
+                "odds": "23.00",
+                "name": "SO Hetmyer",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924122",
+                "odds": "6.00",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924048",
+                "odds": "51.00",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924079",
+                "odds": "4.00",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924131",
+                "odds": "101.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924157",
+                "odds": "21.00",
+                "name": "HH Pandya",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924140",
+                "odds": "51.00",
+                "name": "N Dhir",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924165",
+                "odds": "5.50",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924172",
+                "odds": "5.50",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924183",
+                "odds": "3.50",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924177",
+                "odds": "6.00",
+                "name": "T Varma",
+                "name2": "2",
+                "header": "70+ Runs"
+              },
+              {
+                "id": "658924148",
+                "odds": "6.50",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "70+ Runs"
+              }
+            ]
+          },
+          "bowler_total_match_wickets": {
+            "id": "300349",
+            "name": "Bowler Total Match Wickets",
+            "odds": [
+              {
+                "id": "658921177",
+                "odds": "2.62",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921274",
+                "odds": "3.00",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921232",
+                "odds": "3.50",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938007",
+                "odds": "2.62",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938055",
+                "odds": "3.75",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921433",
+                "odds": "3.40",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921386",
+                "odds": "2.25",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921320",
+                "odds": "2.75",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921181",
+                "odds": "1.44",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921277",
+                "odds": "1.36",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921237",
+                "odds": "1.28",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938012",
+                "odds": "1.44",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938057",
+                "odds": "1.25",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921437",
+                "odds": "1.30",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921389",
+                "odds": "1.57",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658921324",
+                "odds": "1.40",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              }
+            ]
+          },
+          "bowler_milestones": {
+            "id": "300389",
+            "name": "Bowler Milestones",
+            "odds": [
+              {
+                "id": "658923911",
+                "odds": "1.30",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658923943",
+                "odds": "1.40",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658923923",
+                "odds": "1.40",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658938815",
+                "odds": "1.36",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658938830",
+                "odds": "1.61",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658924016",
+                "odds": "1.44",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658923983",
+                "odds": "1.22",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658923961",
+                "odds": "1.33",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "1+ Wicket"
+              },
+              {
+                "id": "658923913",
+                "odds": "2.62",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658923947",
+                "odds": "3.00",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658923927",
+                "odds": "3.50",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658938817",
+                "odds": "2.62",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658938834",
+                "odds": "3.75",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658924023",
+                "odds": "3.40",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658923994",
+                "odds": "2.25",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658923963",
+                "odds": "2.75",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "2+ Wickets"
+              },
+              {
+                "id": "658923916",
+                "odds": "6.00",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658923949",
+                "odds": "9.00",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658923936",
+                "odds": "8.00",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658938819",
+                "odds": "7.00",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658938838",
+                "odds": "13.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658924026",
+                "odds": "9.00",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658924001",
+                "odds": "4.50",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658923965",
+                "odds": "6.50",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "3+ Wickets"
+              },
+              {
+                "id": "658923918",
+                "odds": "17.00",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658923955",
+                "odds": "23.00",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658923938",
+                "odds": "21.00",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658938822",
+                "odds": "21.00",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658938842",
+                "odds": "41.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658924031",
+                "odds": "26.00",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658924007",
+                "odds": "11.00",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658923967",
+                "odds": "19.00",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "4+ Wickets"
+              },
+              {
+                "id": "658923921",
+                "odds": "51.00",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658923959",
+                "odds": "67.00",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658923941",
+                "odds": "67.00",
+                "name": "Sandeep Sharma",
+                "name2": "1",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658938826",
+                "odds": "51.00",
+                "name": "Wanindu Hasaranga",
+                "name2": "1",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658938847",
+                "odds": "101.00",
+                "name": "Corbin Bosch",
+                "name2": "2",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658924033",
+                "odds": "67.00",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658924012",
+                "odds": "29.00",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "5+ Wickets"
+              },
+              {
+                "id": "658923969",
+                "odds": "51.00",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "5+ Wickets"
+              }
+            ]
+          },
+          "player_performance": {
+            "id": "300332",
+            "name": "Player Performance",
+            "odds": [
+              {
+                "id": "658921690",
+                "odds": "2.00",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921806",
+                "odds": "2.62",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921775",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "24.5"
+              },
+              {
+                "id": "658921751",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "26.5"
+              },
+              {
+                "id": "658921734",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "28.5"
+              },
+              {
+                "id": "658921903",
+                "odds": "2.50",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921871",
+                "odds": "1.90",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921934",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658921966",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "34.5"
+              },
+              {
+                "id": "658921838",
+                "odds": "1.90",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921695",
+                "odds": "1.72",
+                "name": "JC Archer",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921810",
+                "odds": "1.44",
+                "name": "MM Theekshana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921777",
+                "odds": "1.83",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "24.5"
+              },
+              {
+                "id": "658921753",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "26.5"
+              },
+              {
+                "id": "658921736",
+                "odds": "1.83",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "28.5"
+              },
+              {
+                "id": "658921907",
+                "odds": "1.50",
+                "name": "Deepak Chahar",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921875",
+                "odds": "1.80",
+                "name": "JJ Bumrah",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              },
+              {
+                "id": "658921936",
+                "odds": "1.83",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "32.5"
+              },
+              {
+                "id": "658921968",
+                "odds": "1.83",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "34.5"
+              },
+              {
+                "id": "658921842",
+                "odds": "1.80",
+                "name": "TA Boult",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "20.5"
+              }
+            ]
+          },
+          "batter_matches_(most_runs)": {
+            "id": "30010",
+            "name": "Batter Matches (Most Runs)",
+            "odds": [
+              {
+                "id": "658923332",
+                "odds": "2.00",
+                "name": "R Rickelton v RG Sharma",
+                "header": "1"
+              },
+              {
+                "id": "658923289",
+                "odds": "1.61",
+                "name": "Y Jaiswal v N Rana",
+                "header": "1"
+              },
+              {
+                "id": "658923309",
+                "odds": "1.66",
+                "name": "Y Jaiswal v RG Sharma",
+                "header": "1"
+              },
+              {
+                "id": "658923334",
+                "odds": "1.80",
+                "name": "R Rickelton v RG Sharma",
+                "header": "2"
+              },
+              {
+                "id": "658923292",
+                "odds": "2.30",
+                "name": "Y Jaiswal v N Rana",
+                "header": "2"
+              },
+              {
+                "id": "658923312",
+                "odds": "2.20",
+                "name": "Y Jaiswal v RG Sharma",
+                "header": "2"
+              }
+            ]
+          },
+          "race_to_10_runs": {
+            "id": "30052",
+            "name": "Race to 10 Runs",
+            "odds": [],
+            "open": 0
+          },
+          "batter_to_score_a_fifty_in_the_match": {
+            "id": "30216",
+            "name": "Batter to Score a Fifty in the Match",
+            "odds": [],
+            "open": 0
+          },
+          "batter_to_score_a_hundred_in_the_match": {
+            "id": "30217",
+            "name": "Batter to Score a Hundred in the Match",
+            "odds": [],
+            "open": 0
+          },
+          "batter_total_match_fours": {
+            "id": "300345",
+            "name": "Batter Total Match Fours",
+            "odds": [
+              {
+                "id": "658922943",
+                "odds": "1.80",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938223",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922946",
+                "odds": "1.80",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922939",
+                "odds": "1.72",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922953",
+                "odds": "2.20",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922955",
+                "odds": "2.25",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658938270",
+                "odds": "1.66",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922951",
+                "odds": "1.66",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922944",
+                "odds": "1.90",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658938224",
+                "odds": "1.83",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922947",
+                "odds": "1.90",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922940",
+                "odds": "2.00",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922954",
+                "odds": "1.61",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922956",
+                "odds": "1.57",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658938275",
+                "odds": "2.10",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "2.5"
+              },
+              {
+                "id": "658922952",
+                "odds": "2.10",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              }
+            ]
+          },
+          "batter_total_match_sixes": {
+            "id": "300344",
+            "name": "Batter Total Match Sixes",
+            "odds": [
+              {
+                "id": "658922973",
+                "odds": "1.53",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658938319",
+                "odds": "2.10",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922978",
+                "odds": "1.50",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922962",
+                "odds": "1.50",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922984",
+                "odds": "1.57",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922989",
+                "odds": "1.57",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658938367",
+                "odds": "2.00",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922981",
+                "odds": "1.72",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Over",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922974",
+                "odds": "2.37",
+                "name": "N Rana",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658938323",
+                "odds": "1.66",
+                "name": "R Parag",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922979",
+                "odds": "2.50",
+                "name": "V Suryavanshi",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922963",
+                "odds": "2.50",
+                "name": "Y Jaiswal",
+                "name2": "1",
+                "header": "Under",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922985",
+                "odds": "2.25",
+                "name": "R Rickelton",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658922992",
+                "odds": "2.25",
+                "name": "RG Sharma",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "0.5"
+              },
+              {
+                "id": "658938373",
+                "odds": "1.72",
+                "name": "Suryakumar Yadav",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "1.5"
+              },
+              {
+                "id": "658922983",
+                "odds": "2.00",
+                "name": "WG Jacks",
+                "name2": "2",
+                "header": "Under",
+                "handicap": "0.5"
+              }
+            ]
+          }
+        }
+      },
+      "schedule": {
+        "updated_at": "1746104703",
+        "key": "#AC#B3#C21034621#D720#E1246#F720#",
+        "sp": {
+          "main": [
+            { "id": "658666625", "odds": "2.50", "name": "1" },
+            { "id": "658666628", "odds": "1.53", "name": "2" }
+          ]
+        }
+      },
+      "team": {
+        "updated_at": "1746105405",
+        "key": "#AC#B3#C21034621#D8#E22574891#F8#I4#",
+        "sp": {
+          "team_top_batter": {
+            "id": "1241",
+            "name": "Team - Top Batter",
+            "odds": [
+              {
+                "id": "PC658920934",
+                "odds": "",
+                "name": "Y Jaiswal",
+                "header": "1"
+              },
+              {
+                "id": "PC658920948",
+                "odds": "",
+                "name": "SV Samson",
+                "header": "1"
+              },
+              {
+                "id": "PC658920943",
+                "odds": "",
+                "name": "R Parag",
+                "header": "1"
+              },
+              {
+                "id": "PC658920945",
+                "odds": "",
+                "name": "N Rana",
+                "header": "1"
+              },
+              {
+                "id": "PC658920955",
+                "odds": "",
+                "name": "V Suryavanshi",
+                "header": "1"
+              },
+              {
+                "id": "PC658920931",
+                "odds": "",
+                "name": "SO Hetmyer",
+                "header": "1"
+              },
+              {
+                "id": "PC658920937",
+                "odds": "",
+                "name": "D Jurel",
+                "header": "1"
+              },
+              {
+                "id": "PC658920946",
+                "odds": "",
+                "name": "KS Rathore",
+                "header": "1"
+              },
+              {
+                "id": "PC658920926",
+                "odds": "",
+                "name": "S Dubey",
+                "header": "1"
+              },
+              {
+                "id": "PC658920930",
+                "odds": "",
+                "name": "Wanindu Hasaranga",
+                "header": "1"
+              },
+              {
+                "id": "PC658920917",
+                "odds": "",
+                "name": "JC Archer",
+                "header": "1"
+              },
+              {
+                "id": "PC658920953",
+                "odds": "",
+                "name": "Yudhvir Singh",
+                "header": "1"
+              },
+              {
+                "id": "PC658920949",
+                "odds": "",
+                "name": "Ashok Sharma",
+                "header": "1"
+              },
+              {
+                "id": "PC658920942",
+                "odds": "",
+                "name": "K Maphaka",
+                "header": "1"
+              },
+              {
+                "id": "PC658920925",
+                "odds": "",
+                "name": "TU Deshpande",
+                "header": "1"
+              },
+              {
+                "id": "PC658920928",
+                "odds": "",
+                "name": "F Farooqi",
+                "header": "1"
+              },
+              {
+                "id": "PC658920938",
+                "odds": "",
+                "name": "K Kartikeya",
+                "header": "1"
+              },
+              {
+                "id": "PC658920940",
+                "odds": "",
+                "name": "A Madhwal",
+                "header": "1"
+              },
+              {
+                "id": "PC658920951",
+                "odds": "",
+                "name": "Sandeep Sharma",
+                "header": "1"
+              },
+              {
+                "id": "PC658920957",
+                "odds": "",
+                "name": "MM Theekshana",
+                "header": "1"
+              },
+              {
+                "id": "PC658923108",
+                "odds": "",
+                "name": "Suryakumar Yadav",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923097",
+                "odds": "",
+                "name": "RG Sharma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923089",
+                "odds": "",
+                "name": "R Rickelton",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923104",
+                "odds": "",
+                "name": "T Varma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923070",
+                "odds": "",
+                "name": "WG Jacks",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923074",
+                "odds": "",
+                "name": "B Jacobs",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923099",
+                "odds": "",
+                "name": "KL Shrijith",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923083",
+                "odds": "",
+                "name": "HH Pandya",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923080",
+                "odds": "",
+                "name": "R Minz",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658922998",
+                "odds": "",
+                "name": "R Bawa",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923066",
+                "odds": "",
+                "name": "N Dhir",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923093",
+                "odds": "",
+                "name": "MJ Santner",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923100",
+                "odds": "",
+                "name": "A Tendulkar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658922999",
+                "odds": "",
+                "name": "Corbin Bosch",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923095",
+                "odds": "",
+                "name": "Karn Sharma",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923050",
+                "odds": "",
+                "name": "Deepak Chahar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923006",
+                "odds": "",
+                "name": "TA Boult",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923033",
+                "odds": "",
+                "name": "JJ Bumrah",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923078",
+                "odds": "",
+                "name": "A Kumar",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923086",
+                "odds": "",
+                "name": "V Puthur",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923087",
+                "odds": "",
+                "name": "PVS Raju",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923102",
+                "odds": "",
+                "name": "RJW Topley",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "PC658923103",
+                "odds": "",
+                "name": "M ur Rahman",
+                "header": "2",
+                "team": "Odds"
+              },
+              {
+                "id": "658923108",
+                "odds": "3.50",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923097",
+                "odds": "4.75",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923089",
+                "odds": "5.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923104",
+                "odds": "5.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923070",
+                "odds": "6.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923074",
+                "odds": "7.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923099",
+                "odds": "7.50",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923083",
+                "odds": "11.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923080",
+                "odds": "12.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658922998",
+                "odds": "19.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923066",
+                "odds": "19.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923093",
+                "odds": "34.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923100",
+                "odds": "34.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658922999",
+                "odds": "41.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923095",
+                "odds": "41.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923050",
+                "odds": "81.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923006",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923033",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923078",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923086",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923087",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923102",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              },
+              {
+                "id": "658923103",
+                "odds": "251.00",
+                "header": "Odds",
+                "team": "Odds"
+              }
+            ]
+          },
+          "team_top_bowler": {
+            "id": "1242",
+            "name": "Team - Top Bowler",
+            "odds": [],
+            "open": 0
+          }
+        }
+      }
+    }
+  ]
+}

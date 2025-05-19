@@ -1,0 +1,40 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "id": "9703206",
+      "sport_id": "3",
+      "time": "1746108000",
+      "time_status": "3",
+      "league": { "id": "26431", "name": "Indian Premier League", "cc": "in" },
+      "home": {
+        "id": "202949",
+        "name": "Rajasthan Royals",
+        "image_id": "152320",
+        "cc": "in"
+      },
+      "away": {
+        "id": "162053",
+        "name": "Mumbai Indians",
+        "image_id": "152324",
+        "cc": "in"
+      },
+      "ss": "117-217",
+      "extra": {
+        "stadium_data": {
+          "id": "25022",
+          "name": "Sawai Mansingh Stadium",
+          "city": "Jaipur",
+          "country": "India",
+          "capacity": "23185",
+          "googlecoords": "26.894031,75.803225"
+        }
+      },
+      "has_lineup": 1,
+      "inplay_created_at": "1746107172",
+      "inplay_updated_at": "1746121199",
+      "confirmed_at": "1746122977",
+      "bet365_id": "173802112"
+    }
+  ]
+}
