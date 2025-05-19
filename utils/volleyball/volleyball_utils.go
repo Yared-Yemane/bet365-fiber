@@ -86,7 +86,7 @@ func CreateSelectionFromPrematch(data volleyball_models.PrematchResponse, market
 		for _, odd := range result.Main.Sp.GameLines.Odds {
 			if odd.Name == market && odd.Header == header && (len(handicap) == 0 || odd.Handicap == handicap[0]) {
 				// odds, _ := strconv.ParseFloat(odd.Odds, 64)
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 
 				return models.BetSelection{
 					Market:    market,
@@ -100,7 +100,7 @@ func CreateSelectionFromPrematch(data volleyball_models.PrematchResponse, market
 		// Check schedule
 		for _, odd := range result.Schedule.Sp.Main {
 			if odd.Name == market && (len(handicap) == 0 || odd.Handicap == handicap[0]) {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				return models.BetSelection{
 					Market:    market,
 					Selection: header,
@@ -117,7 +117,7 @@ func CreateCorrectScoreSelection(data volleyball_models.PrematchResponse, header
 	for _, result := range data.Results {
 		for _, odd := range result.Main.Sp.CorrectSetScore.Odds {
 			if odd.Header == header && odd.Name == score {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				return models.BetSelection{
 					Market:    "Correct Set Score",
 					Selection: score,
@@ -176,10 +176,10 @@ func Evaluate1X2(selection models.BetSelection, homeSets, awaySets int) models.E
 	var actualOutcome string
 	if homeSets > awaySets {
 		actualOutcome = "1"
-	} else if homeSets == awaySets {
-		actualOutcome = "X"
-	} else {
+	} else if homeSets < awaySets {
 		actualOutcome = "2"
+	} else {
+		actualOutcome = "X" // Draw (though rare in volleyball)
 	}
 
 	outcome := "lost"
@@ -394,7 +394,10 @@ func EvaluateDoubleChance(selection models.BetSelection, homeSets, awaySets int)
 	}
 }
 
-func CalculateTotalPoints(scores map[string]volleyball_models.SetScore) int {
+func CalculateTotalPoints(scores map[string]struct {
+	Home string `json:"home"`
+	Away string `json:"away"`
+}) int {
 	total := 0
 	for _, set := range scores {
 		home, _ := strconv.Atoi(set.Home)
@@ -438,7 +441,7 @@ func FindSelectionInPrematch(req volleyball_models.BetEvaluationRequest) models.
 			if odd.Name == req.Market &&
 				(odd.Header == req.Selection || odd.Name == req.Selection) &&
 				(req.Handicap == "" || odd.Handicap == req.Handicap) {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				return models.BetSelection{
 					Market:    req.Market,
 					Selection: req.Selection,
@@ -452,7 +455,7 @@ func FindSelectionInPrematch(req volleyball_models.BetEvaluationRequest) models.
 		for _, odd := range result.Schedule.Sp.Main {
 			if odd.Name == req.Market &&
 				(req.Handicap == "" || odd.Handicap == req.Handicap) {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				return models.BetSelection{
 					Market:    req.Market,
 					Selection: req.Selection,
@@ -467,57 +470,18 @@ func FindSelectionInPrematch(req volleyball_models.BetEvaluationRequest) models.
 
 func Get1X2Selections() models.AvailableSelection {
 	selections := []struct {
-		Name     string  `json:"name"`
+		Name     string `json:"name"`
 		Odds     string `json:"odds"`
-		Handicap string  `json:"handicap,omitempty"`
+		Handicap string `json:"handicap,omitempty"`
 	}{}
 
 	for _, result := range PrematchData.Results {
-		// 1. Check main GameLines
-		// for _, odd := range result.Main.Sp.GameLines.Odds {
-		// 	if (odd.Header == "1" || odd.Header == "2") && odd.Odds != "" && odd.Name == "Winner" {
-		// 		if odds, err := strconv.ParseFloat(odd.Odds, 64); err == nil {
-		// 			selections = append(selections, struct {
-		// 				Name     string  `json:"name"`
-		// 				Odds     float64 `json:"odds"`
-		// 				Handicap string  `json:"handicap,omitempty"`
-		// 			}{
-		// 				Name:     odd.Header,
-		// 				Odds:     odds,
-		// 				Handicap: odd.Handicap,
-		// 			})
-		// 		}
-		// 	}
-		// }
-
-		// 2. Check Schedule
-		// for _, odd := range result.Schedule.Sp.Main {
-		// 	if odd.Name == "Winner" && odd.Odds != "" {
-		// 		if odds, err := strconv.ParseFloat(odd.Odds, 64); err == nil {
-		// 			selectionName := "1"       // default to home
-		// 			if odd.ID == "666717703" { // Away team ID
-		// 				selectionName = "2"
-		// 			}
-		// 			selections = append(selections, struct {
-		// 				Name     string  `json:"name"`
-		// 				Odds     float64 `json:"odds"`
-		// 				Handicap string  `json:"handicap,omitempty"`
-		// 			}{
-		// 				Name:     selectionName,
-		// 				Odds:     odds,
-		// 				Handicap: odd.Handicap,
-		// 			})
-		// 		}
-		// 	}
-		// }
-
-		// 3. Check Others sections
 		for _, other := range result.Others {
 			// Check Set1Lines in Others
 			if other.Sp.Set1Lines.Odds != nil {
 				for _, odd := range other.Sp.Set1Lines.Odds {
 					if odd.Name == "Winner" && odd.Odds != "" {
-						odds := fmt.Sprintf("%s", odd.Odds)
+						odds := odd.Odds
 						{
 							selections = append(selections, struct {
 								Name     string `json:"name"`
@@ -590,7 +554,7 @@ func FindCorrectScoreSelection(req volleyball_models.BetEvaluationRequest) model
 	for _, result := range PrematchData.Results {
 		for _, odd := range result.Main.Sp.CorrectSetScore.Odds {
 			if odd.Header == req.Selection && odd.Name == req.ScoreLine {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				return models.BetSelection{
 					Market:    req.Market,
 					Selection: req.Selection,
@@ -628,7 +592,7 @@ func GetTotalSelections() models.AvailableSelection {
 	for _, result := range PrematchData.Results {
 		for _, odd := range result.Main.Sp.GameLines.Odds {
 			if odd.Name == "Total" && odd.Header != "" {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				selections = append(selections, struct {
 					Name     string `json:"name"`
 					Odds     string `json:"odds"`
@@ -643,7 +607,7 @@ func GetTotalSelections() models.AvailableSelection {
 
 		for _, odd := range result.Schedule.Sp.Main {
 			if odd.Name == "Total" {
-				odds := fmt.Sprintf("%s", odd.Odds)
+				odds := odd.Odds
 				selections = append(selections, struct {
 					Name     string `json:"name"`
 					Odds     string `json:"odds"`
@@ -683,7 +647,7 @@ func GetCorrectScoreSelections() models.AvailableSelection {
 
 	for _, result := range PrematchData.Results {
 		for _, odd := range result.Main.Sp.CorrectSetScore.Odds {
-			odds := fmt.Sprintf("%s", odd.Odds)
+			odds := odd.Odds
 			selections = append(selections, struct {
 				Name     string `json:"name"`
 				Odds     string `json:"odds"`

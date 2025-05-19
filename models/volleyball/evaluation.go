@@ -1,16 +1,5 @@
 package volleyball_models
 
-// AvailableSelection represents a betting market with its available selections
-// @Description Market with available betting options
-// type AvailableSelection struct {
-// 	Market     string `json:"market"`
-// 	Selections []struct {
-// 		Name     string  `json:"name"`
-// 		Odds     float64 `json:"odds"`
-// 		Handicap string  `json:"handicap,omitempty"`
-// 	} `json:"selections"`
-// }
-
 // BetEvaluationRequest represents the payload for evaluating a bet
 // @Description Request body for evaluating a betting selection
 type BetEvaluationRequest struct {

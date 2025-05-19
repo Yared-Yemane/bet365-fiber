@@ -92,8 +92,7 @@ func EvaluateCustomSelection(c *fiber.Ctx) error {
 			})
 		}
 
-		result = volleyball_utils.EvaluateSelection(selection, volleyball_models.ResultResponse{})
-
+		result = volleyball_utils.EvaluateSelection(selection, volleyball_utils.ResultData)
 	} else if sport_type == "cricket" {
 		var req cricket_models.BetEvaluationRequest
 		if err := c.BodyParser(&req); err != nil {
